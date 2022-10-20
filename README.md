@@ -18,7 +18,7 @@ Desktop executable app using CGI files, embedded webserver CGI apps (PHP, Ruby, 
 
 ---
 
-[cgijs](https://www.github.com/cgi-js) - Run cgi / interpreted script files that supports command line execution, or connect to cgi / other server proxies, [git repo](https://github.com/cgi-js/cgi-js) , [npm cgijs](https://www.npmjs.com/package/cgijs)
+[cgijs](https://www.github.com/cgi-js) - Run cgi / interpreted script files that supports command line execution, or connect to cgi / other server proxies, [git repo](https://github.com/cgi-js/cgi-js) , [npmjs cgijs](https://www.npmjs.com/package/cgijs)
 
 CGIJS is a library to run any CGI mode / Interpreted language script files, or connect to any web application server proxies, or manage processes in the system.
 
