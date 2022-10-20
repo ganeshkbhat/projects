@@ -14,7 +14,7 @@ taskcontrol is a python library to create tasks in and based on named workflow c
 
 [desktop-cgi](https://www.github.com/desktop-cgi) - Desktop apps using DesktopCGI, CGIJS, PHPCGIJS, [git repo https://www.github.com/desktop-cgi](https://www.github.com/desktop-cgi/desktop-cgi)
 
-Desktop executable app using CGI files, embedded webserver CGI apps (PHP, Ruby, Python, Perl, CGI, JSP, ASPX, Other Interpreted Languages), or remote proxies
+Create Desktop executable app using CGI files, embedded webserver CGI apps (PHP, Ruby, Python, Perl, CGI, JSP, ASPX, Other Interpreted Languages), or remote proxies
 
 ---
 
