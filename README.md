@@ -44,7 +44,7 @@ Includes `CGIJS` Library as a dependancy.
 
 ---
 
-[require-urls](https://github.com/ganeshkbhat/requireurl) - Require / Import Deno style remote urls, [git repo](https://github.com/ganeshkbhat/requireurl), [npmjs require-urls](https://www.npmjs.com/package/require-urls)
+[require-urls](https://github.com/ganeshkbhat/requireurl) - Require / Import Deno and GoLang style remote urls, [git repo](https://github.com/ganeshkbhat/requireurl), [npmjs require-urls](https://www.npmjs.com/package/require-urls)
 
 Deno and GoLang Mode in commonjs import (require) and ES import syntax using `require-urls`: Replace nodejs require function with requireurls function or use loader.mjs replacing import functionality that can fetches remote urls.
 
