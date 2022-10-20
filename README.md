@@ -30,7 +30,9 @@ CGIJS is a library to run any CGI mode / Interpreted language script files, or c
 
 [phpcgijs](https://github.com/cgi-js/node-php-cgi) - Run php scripts like wordpress, drupal, etc with node and cgi counter parts, [git repo](https://github.com/cgi-js/node-php-cgi), [npmjs phpcgijs](https://www.npmjs.com/package/phpcgijs)
 
-Run php scripts like wordpress, drupal, etc with node and cgi counter parts. The script will pipe all files that end in the .php extension through the php parser. All other files will be served as static content. Basic permalinks are supported but the support for them can probably be improved. Includes CGIJS Library as a dependancy.
+Run php scripts like wordpress, drupal, etc with node and cgi counter parts. The script will pipe all files that end in the .php extension through the php parser. All other files will be served as static content. Basic permalinks are supported but the support for them can probably be improved.
+
+Includes `CGIJS` Library as a dependancy.
 
 ---
 
