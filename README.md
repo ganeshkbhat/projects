@@ -8,7 +8,7 @@ Key projects being worked on along with their problem statements and status. [ga
 
 [taskcontrols](https://www.github.com/taskcontrols) - DevOps Workflow Automation Library with support for Concurrent, or Event based processes/activities in Local/Network Automation Tasks, [git repo](https://www.github.com/taskcontrols/py-taskcontrols), [pypi taskcontrol](https://pypi.org/project/taskcontrol/)
 
-taskcontrol is a python library to create tasks in and based on named workflow controls. It allows middlewares before and after each task. taskcontrol can run single or multiple tasks at a task run invocation.
+`taskcontrol` is a python library to create tasks in and based on named workflow controls. It allows middlewares before and after each task. taskcontrol can run single or multiple tasks at a task run invocation.
 
 ---
 
@@ -22,7 +22,7 @@ Create Desktop executable app using CGI files, embedded webserver CGI apps (`PHP
 
 [cgijs](https://www.github.com/cgi-js) - Run cgi / interpreted script files that supports command line execution, or connect to cgi / other server proxies, [git repo](https://github.com/cgi-js/cgi-js) , [npmjs cgijs](https://www.npmjs.com/package/cgijs)
 
-CGIJS is a library to run any CGI mode / Interpreted language script files, or connect to any web application server proxies, or manage processes in the system. `CGIJS` library:
+`CGIJS` is a library to run any CGI mode / Interpreted language script files, or connect to any web application server proxies, or manage processes in the system. `CGIJS` library:
 
 - Supports running any `CGI` / `Interpreted Language scripts` in `any OS` that runs `node.js`.
 - Supports both `CGI` executables as well as `proxy` to `localhost`/ `remote` /`embedded servers` using proxying of multiple protocols (`http`, `websockets`, `tcp`, `udp`, `socks`, `ssh`, `ftp`).
@@ -32,7 +32,7 @@ CGIJS is a library to run any CGI mode / Interpreted language script files, or c
 
 [phpcgijs](https://github.com/cgi-js/node-php-cgi) - Run php scripts like wordpress, drupal, etc with node and cgi counter parts, [git repo](https://github.com/cgi-js/node-php-cgi), [npmjs phpcgijs](https://www.npmjs.com/package/phpcgijs)
 
-Run php scripts like wordpress, drupal, etc with node and cgi counter parts. The script will pipe all files that end in the .php extension through the php parser. All other files will be served as static content. Basic permalinks are supported but the support for them can probably be improved.
+Run php scripts like wordpress, drupal, etc with node and cgi counter parts using `phpcgijs`. The script will pipe all files that end in the .php extension through the php parser. All other files will be served as static content. Basic permalinks are supported but the support for them can probably be improved.
 
 Includes `CGIJS` Library as a dependancy.
 
@@ -40,20 +40,20 @@ Includes `CGIJS` Library as a dependancy.
 
 [traverse-fs](https://github.com/traverse-fs/glob-traverse-fs) - Traversing file system recursively, [git repo](https://github.com/traverse-fs/glob-traverse-fs), [npmjs traverse-fs](https://www.npmjs.com/package/traverse-fs), [npmjs fssys](https://www.npmjs.com/package/fssys)
 
-Nodejs npm module to traverse files and folder using code, or cli, or use glob patterns
+`traverse-fs` is a nodejs npm module to traverse files and folder using code, or cli, or use glob patterns
 
 ---
 
 [require-urls](https://github.com/ganeshkbhat/requireurl) - Require / Import Deno style remote urls, [git repo](https://github.com/ganeshkbhat/requireurl), [npmjs require-urls](https://www.npmjs.com/package/require-urls)
 
-Deno and GoLang Mode in commonjs import (require) and ES import syntax: Replace nodejs require function with requireurls function or use loader.mjs replacing import functionality that can fetches remote urls.
+Deno and GoLang Mode in commonjs import (require) and ES import syntax using `require-urls`: Replace nodejs require function with requireurls function or use loader.mjs replacing import functionality that can fetches remote urls.
 
 ---
 
 [fastprimenumbers](https://github.com/ganeshkbhat/fastprimenumbers) - Probably the fastest prime number calculations, [git repo](https://github.com/ganeshkbhat/fastprimenumbers), [npmjs fast-prime](https://www.npmjs.com/package/fast-prime), [pypi fastprime]()
 
-Fastest Prime Number Calculation (checks) logic and This probably is the BEST solution in the internet as of today 11th March 2022. This same code can be applied in any languages like Python, Go Lang, Java, PHP, Node.js, Javascript, C, C++, .NET, Rust, etc with the same logic and have performance benefits. It is pretty fast based on the number of iterations needed. Performance time checks were not consistent across languages (in my local system - to be direct about wordings). I have not seen this implemented before and has been indigenously done. Feedback and usage is welcome.
+`Fastest Prime Number Calculation (checks) logic` and This probably is the BEST solution in the internet as of today 11th March 2022. This same code has been applied in any languages like `Python`, `Go` Lang, `Java`, `PHP`, `Node.js`, `Javascript`, `typescript`, `C` and can be applied to `C++`, `.NET`, `Rust`, etc with the same logic and have performance benefits. It is pretty fast based on the number of iterations needed. Performance time checks were not consistent across languages (in my local system - to be direct about wordings). I have not seen this implemented before and has been indigenously done. Feedback and usage is welcome.
 
-Max iterations 16666 for n == 100000 instead of 100000 of conventional way.
+`Max iterations 16666 for n == 100000 instead of 100000 of conventional way.`
 
 ---
