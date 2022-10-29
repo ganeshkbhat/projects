@@ -34,7 +34,7 @@ Create Desktop executable app using CGI files, embedded webserver CGI apps (`PHP
 - Supports managing processes like `embedded` `server` executables, embedded `database` executables, or `any other` embedded/ non-embedded executables 
 
 
-`npm install phpcgijs --save`
+`npm install cgijs --save`
 
 
 ---
@@ -46,7 +46,7 @@ Run php scripts like wordpress, drupal, etc with node and cgi counter parts usin
 Includes `CGIJS` Library as a dependancy.
 
 
-`npm install cgijs --save`
+`npm install phpcgijs --save`
 
 
 ---
