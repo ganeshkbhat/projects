@@ -57,6 +57,7 @@ Includes `CGIJS` Library as a dependancy.
 
 
 `npm install traverse-fs --save`
+`npm install fssys --save`
 
 
 ---
