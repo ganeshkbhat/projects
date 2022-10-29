@@ -120,7 +120,7 @@ Status: `[production ready] [indevelopment (new features)]`
 
 
 [check-esm](https://www.npmjs.com/package/check-esm) - 
-Javascript functions to check if the file is a `ES Module` or a `CJS/ JS Module` or `Script` [https://github.com/ganeshkbhat/isesm](https://github.com/ganeshkbhat/isesm)
+Javascript functions to check if the file is a `ES Module` or a `CJS/ JS Module` or `Script` [https://github.com/ganeshkbhat/get-isesm](https://github.com/ganeshkbhat/get-isesm)
 
 
 `npm install check-esm --save`
