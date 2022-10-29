@@ -58,10 +58,10 @@ Deno and GoLang Mode in commonjs import (require) and ES import syntax using `re
 
 ---
 
-[get-imported](https://www.npmjs.com/package/check-esm) [github](https://github.com/ganeshkbhat/isesm.git)
-Javascript functions to check if the file is a ES Module or a CJS/ JS Module or Script
+[get-imported](https://www.npmjs.com/package/check-esm) - 
+Javascript functions to check if the file is a ES Module or a CJS/ JS Module or Script [github](https://github.com/ganeshkbhat/isesm.git)
 
 ---
 
-[get-imported](https://www.npmjs.com/package/get-imported) [github](https://github.com/ganeshkbhat/get-imports)
-JS functions to check all imports or required modules and check if the file is a ES Module or a CJS/ JS Module or Script
+[get-imported](https://www.npmjs.com/package/get-imported) - 
+JS functions to check all imports or required modules and check if the file is a ES Module or a CJS/ JS Module or Script [github](https://github.com/ganeshkbhat/get-imports)
