@@ -14,6 +14,9 @@ Key projects being worked on along with their problem statements and status. [ga
 `pip3 install taskcontrol`
 
 
+`[indevelopment (MVP)]`
+
+
 ---
 
 [desktop-cgi](https://www.github.com/desktop-cgi) - Desktop apps using DesktopCGI, CGIJS, PHPCGIJS, [git repo https://www.github.com/desktop-cgi](https://www.github.com/desktop-cgi/desktop-cgi)
@@ -21,6 +24,9 @@ Key projects being worked on along with their problem statements and status. [ga
 Create Desktop executable app using CGI files, embedded webserver CGI apps (`PHP`, `Ruby`, `Python`, `Perl`, `CGI`, `JSP`, `ASPX`, `Other` Interpreted Languages), or remote proxies.
 
 `Desktop-CGI` is a desktop executable app that can be created from any CGI files or CGI web apps that can be served from an file, an embedded web server using proxy, or an remote proxy web server. It supports embedding and managing embeddable databases and executables. It supports all major Operating systems supported by electron like Windows, Linux, and MacOS supported by Electron.
+
+
+`[indevelopment (MVP)]`
 
 
 ---
@@ -37,6 +43,9 @@ Create Desktop executable app using CGI files, embedded webserver CGI apps (`PHP
 `npm install cgijs --save`
 
 
+`[production ready] [indevelopment (new features)]`
+
+
 ---
 
 [phpcgijs](https://github.com/cgi-js/node-php-cgi) - Run php scripts like wordpress, drupal, etc with node and cgi counter parts, [git repo](https://github.com/cgi-js/node-php-cgi), [npmjs phpcgijs](https://www.npmjs.com/package/phpcgijs)
@@ -47,6 +56,9 @@ Includes `CGIJS` Library as a dependancy.
 
 
 `npm install phpcgijs --save`
+
+
+`[production ready] [indevelopment (new features)]`
 
 
 ---
@@ -61,6 +73,9 @@ Includes `CGIJS` Library as a dependancy.
 `npm install fssys --save`
 
 
+`[production ready] [indevelopment (new features)]`
+
+
 ---
 
 [require-urls](https://github.com/ganeshkbhat/requireurl) - Require / Import Deno and GoLang style remote urls, [git repo](https://github.com/ganeshkbhat/requireurl), [npmjs require-urls](https://www.npmjs.com/package/require-urls)
@@ -69,6 +84,9 @@ Deno and GoLang Mode in commonjs import (require) and ES import syntax using `re
 
 
 `npm install require-urls --save`
+
+
+`[indevelopment (MVP)]`
 
 
 ---
@@ -85,6 +103,9 @@ Deno and GoLang Mode in commonjs import (require) and ES import syntax using `re
 `npm install fast-prime-client --save`
 
 
+`[production ready] [indevelopment (new features)]`
+
+
 ---
 
 [check-esm](https://www.npmjs.com/package/check-esm) - 
@@ -92,6 +113,9 @@ Javascript functions to check if the file is a ES Module or a CJS/ JS Module or 
 
 
 `npm install check-esm --save`
+
+
+`[production ready] [indevelopment (new features)]`
 
 
 ---
@@ -102,6 +126,10 @@ JS functions to check all imports or required modules and check if the file is a
 
 `npm install get-imported --save`
 
+
+`[production ready] [indevelopment (new features)]`
+
+
 ---
 
 [root-dirs](https://github.com/ganeshkbhat/get-root) - 
@@ -109,4 +137,7 @@ Get root folders of git, svn, mercurial, ftp, nodejs node_modules, nodejs packag
 
 
 `npm install root-dirs --save`
+
+
+`[production ready] [indevelopment (new features)]`
 
