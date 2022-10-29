@@ -89,7 +89,7 @@ Status: `[indevelopment (MVP)]`
 
 [require-urls](https://github.com/ganeshkbhat/requireurl) - Require / Import Deno and GoLang style remote urls, [git repo](https://github.com/ganeshkbhat/requireurl), [npmjs require-urls](https://www.npmjs.com/package/require-urls)
 
-Deno and GoLang Mode in commonjs import (require) and ES import syntax using `require-urls`: Replace nodejs require function with requireurls function or use loader.mjs replacing import functionality that can fetches remote urls.
+`Deno and GoLang Mode` in `commonjs import` (`require`) and `ES import` syntax using `require-urls`: Replace nodejs require function with requireurls function or use loader.mjs replacing import functionality that can fetches remote urls.
 
 
 `npm install require-urls --save`
@@ -120,7 +120,7 @@ Status: `[production ready] [indevelopment (new features)]`
 
 
 [check-esm](https://www.npmjs.com/package/check-esm) - 
-Javascript functions to check if the file is a ES Module or a CJS/ JS Module or Script [https://github.com/ganeshkbhat/isesm](https://github.com/ganeshkbhat/isesm)
+Javascript functions to check if the file is a `ES Module` or a `CJS/ JS Module` or `Script` [https://github.com/ganeshkbhat/isesm](https://github.com/ganeshkbhat/isesm)
 
 
 `npm install check-esm --save`
@@ -133,7 +133,7 @@ Status: `[production ready] [indevelopment (new features)]`
 
 
 [get-imported](https://www.npmjs.com/package/get-imported) - 
-JS functions to check all imports or required modules and check if the file is a ES Module or a CJS/ JS Module or Script [https://github.com/ganeshkbhat/get-imports](https://github.com/ganeshkbhat/get-imports)
+JS functions to `check all imports or required modules` and `check if` the file is a `ES Module` or a `CJS/ JS Module` or `Script` [https://github.com/ganeshkbhat/get-imports](https://github.com/ganeshkbhat/get-imports)
 
 
 `npm install get-imported --save`
@@ -146,7 +146,7 @@ Status: `[production ready] [indevelopment (new features)]`
 
 
 [root-dirs](https://github.com/ganeshkbhat/get-root) - 
-Get root folders of git, svn, mercurial, ftp, nodejs node_modules, nodejs package.json, nodejs .jscache folder [https://github.com/ganeshkbhat/get-root](https://github.com/ganeshkbhat/get-root)
+Get root folders of `git`, `svn`, `mercurial`, `ftp`, nodejs `node_modules`, nodejs `package.json`, nodejs `.jscache` folder [https://github.com/ganeshkbhat/get-root](https://github.com/ganeshkbhat/get-root)
 
 
 `npm install root-dirs --save`
