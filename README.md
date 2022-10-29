@@ -102,3 +102,11 @@ JS functions to check all imports or required modules and check if the file is a
 
 `npm install get-imported --save`
 
+---
+
+[root-dirs](https://github.com/ganeshkbhat/get-root) - 
+Get root folders of git, svn, mercurial, ftp, nodejs node_modules, nodejs package.json, nodejs .jscache folder [https://github.com/ganeshkbhat/get-root](https://github.com/ganeshkbhat/get-root)
+
+
+`npm install root-dirs --save`
+
