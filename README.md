@@ -10,6 +10,10 @@ Key projects being worked on along with their problem statements and status. [ga
 
 `taskcontrol` is a python library to create tasks in and based on named workflow controls. It allows middlewares before and after each task. taskcontrol can run single or multiple tasks at a task run invocation.
 
+
+`pip3 install taskcontrol`
+
+
 ---
 
 [desktop-cgi](https://www.github.com/desktop-cgi) - Desktop apps using DesktopCGI, CGIJS, PHPCGIJS, [git repo https://www.github.com/desktop-cgi](https://www.github.com/desktop-cgi/desktop-cgi)
@@ -17,6 +21,7 @@ Key projects being worked on along with their problem statements and status. [ga
 Create Desktop executable app using CGI files, embedded webserver CGI apps (`PHP`, `Ruby`, `Python`, `Perl`, `CGI`, `JSP`, `ASPX`, `Other` Interpreted Languages), or remote proxies.
 
 `Desktop-CGI` is a desktop executable app that can be created from any CGI files or CGI web apps that can be served from an file, an embedded web server using proxy, or an remote proxy web server. It supports embedding and managing embeddable databases and executables. It supports all major Operating systems supported by electron like Windows, Linux, and MacOS supported by Electron.
+
 
 ---
 
@@ -28,6 +33,10 @@ Create Desktop executable app using CGI files, embedded webserver CGI apps (`PHP
 - Supports both `CGI` executables as well as `proxy` to `localhost`/ `remote` /`embedded servers` using proxying of multiple protocols (`http`, `websockets`, `tcp`, `udp`, `socks`, `ssh`, `ftp`).
 - Supports managing processes like `embedded` `server` executables, embedded `database` executables, or `any other` embedded/ non-embedded executables 
 
+
+`npm install phpcgijs --save`
+
+
 ---
 
 [phpcgijs](https://github.com/cgi-js/node-php-cgi) - Run php scripts like wordpress, drupal, etc with node and cgi counter parts, [git repo](https://github.com/cgi-js/node-php-cgi), [npmjs phpcgijs](https://www.npmjs.com/package/phpcgijs)
@@ -36,17 +45,29 @@ Run php scripts like wordpress, drupal, etc with node and cgi counter parts usin
 
 Includes `CGIJS` Library as a dependancy.
 
+
+`npm install cgijs --save`
+
+
 ---
 
 [traverse-fs](https://github.com/traverse-fs/glob-traverse-fs) - Traversing file system recursively, [git repo](https://github.com/traverse-fs/glob-traverse-fs), [npmjs traverse-fs](https://www.npmjs.com/package/traverse-fs), [npmjs fssys](https://www.npmjs.com/package/fssys)
 
 `traverse-fs` is a nodejs npm module to traverse files and folder using code, or cli, or use glob patterns
 
+
+`npm install traverse-fs --save`
+
+
 ---
 
 [require-urls](https://github.com/ganeshkbhat/requireurl) - Require / Import Deno and GoLang style remote urls, [git repo](https://github.com/ganeshkbhat/requireurl), [npmjs require-urls](https://www.npmjs.com/package/require-urls)
 
 Deno and GoLang Mode in commonjs import (require) and ES import syntax using `require-urls`: Replace nodejs require function with requireurls function or use loader.mjs replacing import functionality that can fetches remote urls.
+
+
+`npm install require-urls --save`
+
 
 ---
 
@@ -56,12 +77,25 @@ Deno and GoLang Mode in commonjs import (require) and ES import syntax using `re
 
 `Max iterations 16666 for n == 100000 instead of 100000 of conventional way.`
 
+
+`npm install fast-prime --save`
+`npm install fast-prime-client --save`
+
+
 ---
 
 [check-esm](https://www.npmjs.com/package/check-esm) - 
 Javascript functions to check if the file is a ES Module or a CJS/ JS Module or Script [https://github.com/ganeshkbhat/isesm](https://github.com/ganeshkbhat/isesm)
 
+
+`npm install check-esm --save`
+
+
 ---
 
 [get-imported](https://www.npmjs.com/package/get-imported) - 
 JS functions to check all imports or required modules and check if the file is a ES Module or a CJS/ JS Module or Script [https://github.com/ganeshkbhat/get-imports](https://github.com/ganeshkbhat/get-imports)
+
+
+`npm install get-imported --save`
+
