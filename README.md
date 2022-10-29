@@ -57,3 +57,11 @@ Deno and GoLang Mode in commonjs import (require) and ES import syntax using `re
 `Max iterations 16666 for n == 100000 instead of 100000 of conventional way.`
 
 ---
+
+[get-imported](https://www.npmjs.com/package/check-esm) [github](https://github.com/ganeshkbhat/isesm.git)
+Javascript functions to check if the file is a ES Module or a CJS/ JS Module or Script
+
+---
+
+[get-imported](https://www.npmjs.com/package/get-imported) [github](https://github.com/ganeshkbhat/get-imports)
+JS functions to check all imports or required modules and check if the file is a ES Module or a CJS/ JS Module or Script
