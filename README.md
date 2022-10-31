@@ -76,9 +76,7 @@ Status: `[production ready] [indevelopment (new features)]`
 `traverse-fs` is a nodejs npm module to traverse files and folder using code, or cli, or use glob patterns
 
 
-`npm install traverse-fs --save`
-
-`npm install fssys --save`
+`npm install traverse-fs --save` , `npm install fssys --save`
 
 
 ---
@@ -108,9 +106,7 @@ Status: `[production ready] [indevelopment (new features)]`
 `Max iterations 16666 for n == 100000 instead of 100000 of conventional way.`
 
 
-`npm install fast-prime --save`
-
-`npm install fast-prime-client --save`
+`npm install fast-prime --save` , `npm install fast-prime-client --save`
 
 
 ---
