@@ -7,6 +7,7 @@ Key projects being worked on along with their problem statements and status. [ga
 ---
 
 
+
 Status: `[indevelopment (MVP)]`
 
 
@@ -18,7 +19,9 @@ Status: `[indevelopment (MVP)]`
 `pip3 install taskcontrol`
 
 
+
 ---
+
 
 
 Status: `[indevelopment (MVP)]`
@@ -31,7 +34,9 @@ Create Desktop executable app using CGI files, embedded webserver CGI apps (`PHP
 `Desktop-CGI` is a desktop executable app that can be created from any CGI files or CGI web apps that can be served from an file, an embedded web server using proxy, or an remote proxy web server. It supports embedding and managing embeddable databases and executables. It supports all major Operating systems supported by electron like Windows, Linux, and MacOS supported by Electron.
 
 
+
 ---
+
 
 
 Status: `[production ready] [indevelopment (new features)]`
@@ -49,7 +54,9 @@ Status: `[production ready] [indevelopment (new features)]`
 `npm install cgijs --save`
 
 
+
 ---
+
 
 
 Status: `[production ready] [indevelopment (new features)]`
@@ -65,7 +72,9 @@ Includes `CGIJS` Library as a dependancy.
 `npm install phpcgijs --save`
 
 
+
 ---
+
 
 
 Status: `[production ready] [indevelopment (new features)]`
@@ -79,7 +88,9 @@ Status: `[production ready] [indevelopment (new features)]`
 `npm install traverse-fs --save` , `npm install fssys --save`
 
 
+
 ---
+
 
 
 Status: `[indevelopment (MVP)]`
@@ -93,7 +104,9 @@ Status: `[indevelopment (MVP)]`
 `npm install require-urls --save`
 
 
+
 ---
+
 
 
 Status: `[production ready] [indevelopment (new features)]`
@@ -109,7 +122,9 @@ Status: `[production ready] [indevelopment (new features)]`
 `npm install fast-prime --save` , `npm install fast-prime-client --save`
 
 
+
 ---
+
 
 
 Status: `[production ready] [indevelopment (new features)]`
@@ -122,7 +137,9 @@ Javascript functions to check if the file is a `ES Module` or a `CJS/ JS Module`
 `npm install check-esm --save`
 
 
+
 ---
+
 
 
 Status: `[production ready] [indevelopment (new features)]`
@@ -135,7 +152,9 @@ JS functions to `check all imports or required modules` and `check if` the file 
 `npm install get-imported --save`
 
 
+
 ---
+
 
 
 Status: `[production ready] [indevelopment (new features)]`
@@ -147,5 +166,76 @@ Get root folders of `git`, `svn`, `mercurial`, `ftp`, nodejs `node_modules`, nod
 
 `npm install root-dirs --save`
 
+
+
 ---
 
+
+
+Status: `[production ready] [indevelopment (new features)]`
+
+
+[hasher-apis](https://www.npmjs.com/package/hasher-apis) - Simple and very flexible implementation API functions to hash content or get SHA hashes of text [https://github.com/ganeshkbhat/hasher-apis](https://github.com/ganeshkbhat/hasher-apis)
+
+
+`npm install hasher-apis --save`
+
+
+
+---
+
+
+
+Status: `[production ready] [indevelopment (new features)]`
+
+
+[concurrency.js](https://www.npmjs.com/package/concurrency.js) - npm module to work with `concurrency - worker threads and worker processes` easily using simple functions and script files [https://github.com/ganeshkbhat/concurrency.js](https://github.com/ganeshkbhat/concurrency.js)
+
+
+`npm install concurrency.js --save`
+
+
+
+---
+
+
+
+Status: `[production ready] [indevelopment (new features)]`
+
+
+[root-dirs](https://www.npmjs.com/package/root-dirs) - Get root folders of git, svn, mercurial, ftp, nodejs node_modules, nodejs package.json, nodejs .jscache folder [https://github.com/ganeshkbhat/root-dirs](https://github.com/ganeshkbhat/root-dirs)
+
+
+`npm install root-dirs --save`
+
+
+
+---
+
+
+
+Status: `[production ready] [indevelopment (new features)]`
+
+
+[root-dirs](https://www.npmjs.com/package/root-dirs) - Get root folders of git, svn, mercurial, ftp, nodejs node_modules, nodejs package.json, nodejs .jscache folder [https://github.com/ganeshkbhat/root-dirs](https://github.com/ganeshkbhat/root-dirs)
+
+
+`npm install root-dirs --save`
+
+
+
+---
+
+
+
+Status: `[production ready] [indevelopment (new features)]`
+
+
+[request-apis](https://www.npmjs.com/package/request-apis) - npm module for common request APIs and basic http requests utils [https://github.com/ganeshkbhat/request-apis](https://github.com/ganeshkbhat/request-apis)
+
+
+`npm install request-apis --save`
+
+
+
+---
