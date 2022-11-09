@@ -228,7 +228,7 @@ Status: `[production ready] [indevelopment (new features)]`
 
 
 
-Status: `[production ready] [indevelopment (new features)]`
+Status: `[indevelopment (MVP)]`
 
 
 [request-apis](https://www.npmjs.com/package/request-apis) - npm module for common request APIs and basic http requests utils [https://github.com/ganeshkbhat/request-apis](https://github.com/ganeshkbhat/request-apis)
@@ -242,6 +242,9 @@ Status: `[production ready] [indevelopment (new features)]`
 
 
 
+Status: `[production ready] [indevelopment (new features)]`
+
+
 [fast-prime](https://github.com/ganeshkbhat/fastprimenumbers/tree/main/nodejs) Fastest Prime Number Calculation (checks) logic for node and browser. Fastest Prime Number Calculation (checks) logic and This probably is the BEST solution in the internet as of today 11th March 2022. [https://github.com/ganeshkbhat/fastprimenumbers/tree/main/nodejs]()
 
 
@@ -253,9 +256,14 @@ Status: `[production ready] [indevelopment (new features)]`
 
 
 
+Status: `[production ready] [indevelopment (new features)]`
+
+
 [fast-prime](https://github.com/ganeshkbhat/fastprimenumbers/tree/main/javascript) Fastest Prime Number Calculation (checks) logic for browser. Fastest Prime Number Calculation (checks) logic and This probably is the BEST solution in the internet as of today 11th March 2022. [https://github.com/ganeshkbhat/fastprimenumbers/tree/main/javascript](https://github.com/ganeshkbhat/fastprimenumbers/tree/main/javascript)
 
 
 `npm install fast-prime-client --save`
 
 
+
+---
