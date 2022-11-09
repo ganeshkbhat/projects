@@ -214,20 +214,6 @@ Status: `[production ready] [indevelopment (new features)]`
 
 
 
-Status: `[production ready] [indevelopment (new features)]`
-
-
-[root-dirs](https://www.npmjs.com/package/root-dirs) - Get root folders of git, svn, mercurial, ftp, nodejs node_modules, nodejs package.json, nodejs .jscache folder [https://github.com/ganeshkbhat/root-dirs](https://github.com/ganeshkbhat/root-dirs)
-
-
-`npm install root-dirs --save`
-
-
-
----
-
-
-
 Status: `[indevelopment (MVP)]`
 
 
