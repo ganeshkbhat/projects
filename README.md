@@ -7,13 +7,14 @@ Key projects being worked on along with their problem statements and status. [ga
 ---
 
 
+#### taskcontrols
 
 Status: `[indevelopment (MVP)]`
 
 
-[taskcontrols](https://www.github.com/taskcontrols) - DevOps Workflow Automation Library with support for Concurrent, or Event based processes/activities in Local/Network Automation Tasks, [git repo](https://www.github.com/taskcontrols/py-taskcontrols), [pypi taskcontrol](https://pypi.org/project/taskcontrol/)
+[taskcontrols](https://www.github.com/taskcontrols) - DevOps (DevSecOps) Workflow Automation Library with support for Concurrent, or Event based processes/activities in Local/Network Automation Tasks, [git repo](https://www.github.com/taskcontrols/py-taskcontrols), [pypi taskcontrol](https://pypi.org/project/taskcontrol/)
 
-`taskcontrol` is a python library to create tasks in and based on named workflow controls. It allows middlewares before and after each task. taskcontrol can run single or multiple tasks at a task run invocation.
+`taskcontrol` is a set of multi-language library (`python`, `nodejs`[todo], `typescript`[todo]) to `create, run, manage, and monitor tasks and workflows with data persistance and task-unit level secure operations`. It allows working with multiple architecture modes (with data persistance and security) including `publisher-subscriber`, `agent-less`, `server-agent`, `web api`, `webhooks`, and `message queues`.
 
 
 `pip3 install taskcontrol`
@@ -23,21 +24,7 @@ Status: `[indevelopment (MVP)]`
 ---
 
 
-
-Status: `[indevelopment (MVP)]`
-
-
-[desktop-cgi](https://www.github.com/desktop-cgi) - Desktop apps using DesktopCGI, CGIJS, PHPCGIJS, [git repo https://www.github.com/desktop-cgi](https://www.github.com/desktop-cgi/desktop-cgi)
-
-Create Desktop executable app using CGI files, embedded webserver CGI apps (`PHP`, `Ruby`, `Python`, `Perl`, `CGI`, `JSP`, `ASPX`, `Other` Interpreted Languages), or remote proxies.
-
-`Desktop-CGI` is a desktop executable app that can be created from any CGI files or CGI web apps that can be served from an file, an embedded web server using proxy, or an remote proxy web server. It supports embedding and managing embeddable databases and executables. It supports all major Operating systems supported by electron like Windows, Linux, and MacOS supported by Electron.
-
-
-
----
-
-
+#### cgijs
 
 Status: `[production ready] [indevelopment (new features)]`
 
@@ -58,6 +45,7 @@ Status: `[production ready] [indevelopment (new features)]`
 ---
 
 
+#### phpcgijs
 
 Status: `[production ready] [indevelopment (new features)]`
 
@@ -76,22 +64,57 @@ Includes `CGIJS` Library as a dependancy.
 ---
 
 
+#### desktop-cgi
 
-Status: `[production ready] [indevelopment (new features)]`
-
-
-[traverse-fs](https://github.com/traverse-fs/glob-traverse-fs) - Traversing file system recursively, [git repo](https://github.com/traverse-fs/glob-traverse-fs), [npmjs traverse-fs](https://www.npmjs.com/package/traverse-fs), [npmjs fssys](https://www.npmjs.com/package/fssys)
-
-`traverse-fs` is a nodejs npm module to traverse files and folder using code, or cli, or use glob patterns
+Status: `[indevelopment (MVP)]`
 
 
-`npm install traverse-fs --save` , `npm install fssys --save`
+[desktop-cgi](https://www.github.com/desktop-cgi) - Desktop apps using DesktopCGI, CGIJS, PHPCGIJS, [git repo https://www.github.com/desktop-cgi](https://www.github.com/desktop-cgi/desktop-cgi)
+
+Create Desktop executable app using CGI files, embedded webserver CGI apps (`PHP`, `Ruby`, `Python`, `Perl`, `CGI`, `JSP`, `ASPX`, `Other` Interpreted Languages), or remote proxies.
+
+`Desktop-CGI` is a desktop executable app that can be created from any CGI files or CGI web apps that can be served from an file, an embedded web server using proxy, or an remote proxy web server. It supports embedding and managing embeddable databases and executables. It supports all major Operating systems supported by electron like Windows, Linux, and MacOS supported by Electron.
 
 
 
 ---
 
 
+#### traverse-fs
+
+Status: `[production ready] [indevelopment (new features)]`
+
+
+[traverse-fs](https://github.com/traverse-fs/glob-traverse-fs) - Traversing file system recursively, [git repo](https://github.com/traverse-fs/glob-traverse-fs), [npmjs traverse-fs](https://www.npmjs.com/package/traverse-fs)
+
+`traverse-fs` is a nodejs npm module to traverse files and folder using code, or cli, or use glob patterns
+
+
+`npm install traverse-fs --save`
+
+
+
+---
+
+
+#### fssys
+
+Status: `[production ready] [indevelopment (new features)]`
+
+
+[fssys](https://github.com/traverse-fs/fssys) - Traversing file system recursively, [git repo](https://github.com/traverse-fs/glob-traverse-fs), [npmjs fssys](https://www.npmjs.com/package/fssys)
+
+`fssys` is a nodejs npm module to traverse files and folder using code, or cli, or use glob patterns
+
+
+`npm install fssys --save`
+
+
+
+---
+
+
+#### require-urls
 
 Status: `[indevelopment (MVP)]`
 
@@ -108,6 +131,7 @@ Status: `[indevelopment (MVP)]`
 ---
 
 
+#### fastprimenumbers
 
 Status: `[production ready] [indevelopment (new features)]`
 
@@ -129,6 +153,7 @@ It is pretty fast based on the number of iterations needed. Performance time che
 ---
 
 
+#### fast-prime
 
 Status: `[production ready] [indevelopment (new features)]`
 
@@ -143,11 +168,12 @@ Status: `[production ready] [indevelopment (new features)]`
 ---
 
 
+#### fast-prime-client
 
 Status: `[production ready] [indevelopment (new features)]`
 
 
-[fast-prime](https://github.com/ganeshkbhat/fastprimenumbers/tree/main/javascript) Fastest Prime Number Calculation (checks) logic for browser. Fastest Prime Number Calculation (checks) logic and This probably is the BEST solution in the internet as of today 11th March 2022. [https://github.com/ganeshkbhat/fastprimenumbers/tree/main/javascript](https://github.com/ganeshkbhat/fastprimenumbers/tree/main/javascript)
+[fast-prime-client](https://github.com/ganeshkbhat/fastprimenumbers/tree/main/javascript) Fastest Prime Number Calculation (checks) logic for browser. Fastest Prime Number Calculation (checks) logic and This probably is the BEST solution in the internet as of today 11th March 2022. [https://github.com/ganeshkbhat/fastprimenumbers/tree/main/javascript](https://github.com/ganeshkbhat/fastprimenumbers/tree/main/javascript)
 
 
 `npm install fast-prime-client --save`
@@ -157,6 +183,7 @@ Status: `[production ready] [indevelopment (new features)]`
 ---
 
 
+#### check-esm
 
 Status: `[production ready] [indevelopment (new features)]`
 
@@ -172,6 +199,7 @@ Javascript functions to check if the file is a `ES Module` or a `CJS/ JS Module`
 ---
 
 
+#### get-imported
 
 Status: `[production ready] [indevelopment (new features)]`
 
@@ -187,6 +215,7 @@ JS functions to `check all imports or required modules` and `check if` the file 
 ---
 
 
+#### root-dirs
 
 Status: `[production ready] [indevelopment (new features)]`
 
@@ -202,6 +231,7 @@ Get root folders of `git`, `svn`, `mercurial`, `ftp`, nodejs `node_modules`, nod
 ---
 
 
+#### hasher-apis
 
 Status: `[production ready] [indevelopment (new features)]`
 
@@ -216,6 +246,7 @@ Status: `[production ready] [indevelopment (new features)]`
 ---
 
 
+#### concurrency.js
 
 Status: `[production ready] [indevelopment (new features)]`
 
@@ -230,20 +261,7 @@ Status: `[production ready] [indevelopment (new features)]`
 ---
 
 
-
-Status: `[production ready] [indevelopment (new features)]`
-
-
-[root-dirs](https://www.npmjs.com/package/root-dirs) - Get root folders of git, svn, mercurial, ftp, nodejs node_modules, nodejs package.json, nodejs .jscache folder [https://github.com/ganeshkbhat/root-dirs](https://github.com/ganeshkbhat/root-dirs)
-
-
-`npm install root-dirs --save`
-
-
-
----
-
-
+#### request-apis
 
 Status: `[indevelopment (MVP)]`
 
