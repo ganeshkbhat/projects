@@ -14,7 +14,7 @@ Status: `[indevelopment (MVP)]`
 
 [taskcontrols](https://www.github.com/taskcontrols) - DevOps (DevSecOps) Workflow Automation Library with support for Concurrent, or Event based processes/activities in Local/Network Automation Tasks, [git repo](https://www.github.com/taskcontrols/py-taskcontrols), [pypi taskcontrol](https://pypi.org/project/taskcontrol/)
 
-`taskcontrol` is a set of multi-language library (`python`, `nodejs`[todo], `typescript`[todo]) to `create, run, manage, and monitor tasks and workflows with data persistance and task-unit level secure operations`. It allows working with multiple architecture modes (with data persistance and security) including `publisher-subscriber`, `agent-less`, `server-agent`, `web api`, `webhooks`, and `message queues`.
+`taskcontrol` is intended to be a set of multi-language micro-library (`python`, `nodejs`[todo], `typescript`[todo]) to `create, run, manage, and monitor tasks and workflows with data persistance and task-unit level secure operations`. It allows working with multiple architecture modes (with data persistance and security) including `publisher-subscriber`, `agent-less`, `server-agent`, `web api`, `webhooks`, and `message queues`.
 
 
 `pip3 install taskcontrol`
