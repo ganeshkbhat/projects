@@ -133,7 +133,7 @@ Status: `[indevelopment (MVP)]`
 
 #### fastprimenumbers
 
-Status: `[production ready] [indevelopment (new features)]`
+Status: `[production ready]`
 
 
 [fastprimenumbers](https://github.com/ganeshkbhat/fastprimenumbers) - Probably the fastest prime number calculations, [git repo](https://github.com/ganeshkbhat/fastprimenumbers), [npmjs fast-prime](https://www.npmjs.com/package/fast-prime), [pypi fastprime]()
@@ -155,7 +155,7 @@ It is pretty fast based on the number of iterations needed. Performance time che
 
 #### fast-prime
 
-Status: `[production ready] [indevelopment (new features)]`
+Status: `[production ready]`
 
 
 [fast-prime](https://github.com/ganeshkbhat/fastprimenumbers/tree/main/nodejs) Fastest Prime Number Calculation (checks) logic for node and browser. Fastest Prime Number Calculation (checks) logic and This probably is the BEST solution in the internet as of today 11th March 2022. [https://github.com/ganeshkbhat/fastprimenumbers/tree/main/nodejs](https://github.com/ganeshkbhat/fastprimenumbers/tree/main/nodejs)
