@@ -82,7 +82,7 @@ Includes `CGIJS` Library as a dependancy.
 
 #### traverse-fs
 
-Status: `[production ready] [indevelopment (new features)]`
+Status: `[production ready]`
 
 
 [traverse-fs](https://github.com/traverse-fs/glob-traverse-fs) - Traversing file system recursively, [git repo](https://github.com/traverse-fs/glob-traverse-fs), [npmjs traverse-fs](https://www.npmjs.com/package/traverse-fs)
@@ -99,7 +99,7 @@ Status: `[production ready] [indevelopment (new features)]`
 
 #### fssys
 
-Status: `[production ready] [indevelopment (new features)]`
+Status: `[production ready] [indevelopment (new features)] [consideration (new features)]`
 
 
 [fssys](https://github.com/traverse-fs/fssys) - Traversing file system recursively, [git repo](https://github.com/traverse-fs/glob-traverse-fs), [npmjs fssys](https://www.npmjs.com/package/fssys)
@@ -185,7 +185,7 @@ Status: `[production ready]`
 
 #### check-esm
 
-Status: `[production ready] [indevelopment (new features)]`
+Status: `[production ready] [consideration (new features)]`
 
 
 [check-esm](https://www.npmjs.com/package/check-esm) - 
@@ -217,7 +217,7 @@ JS functions to `check all imports or required modules` and `check if` the file 
 
 #### root-dirs
 
-Status: `[production ready] [indevelopment (new features)]`
+Status: `[production ready] [consideration (new features)]`
 
 
 [root-dirs](https://github.com/ganeshkbhat/get-root) - 
