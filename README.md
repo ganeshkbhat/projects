@@ -82,7 +82,7 @@ Includes `CGIJS` Library as a dependancy.
 
 #### traverse-fs
 
-Status: `[production ready]`
+Status: `[production ready] [indevelopment (new features)]`
 
 
 [traverse-fs](https://github.com/traverse-fs/glob-traverse-fs) - Traversing file system recursively, [git repo](https://github.com/traverse-fs/glob-traverse-fs), [npmjs traverse-fs](https://www.npmjs.com/package/traverse-fs)
