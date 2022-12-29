@@ -170,7 +170,7 @@ Status: `[production ready]`
 
 #### fast-prime-client
 
-Status: `[production ready] [indevelopment (new features)]`
+Status: `[production ready]`
 
 
 [fast-prime-client](https://github.com/ganeshkbhat/fastprimenumbers/tree/main/javascript) Fastest Prime Number Calculation (checks) logic for browser. Fastest Prime Number Calculation (checks) logic and This probably is the BEST solution in the internet as of today 11th March 2022. [https://github.com/ganeshkbhat/fastprimenumbers/tree/main/javascript](https://github.com/ganeshkbhat/fastprimenumbers/tree/main/javascript)
