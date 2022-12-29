@@ -201,7 +201,7 @@ JS functions to `check all imports or required modules` and `check if` the file 
 
 #### get-imported
 
-Status: `[production ready] [indevelopment (new features)]`
+Status: `[production ready]`
 
 
 [get-imported](https://www.npmjs.com/package/get-imported) - 
@@ -233,7 +233,7 @@ Get root folders of `git`, `svn`, `mercurial`, nodejs `node_modules` / `package.
 
 #### hasher-apis
 
-Status: `[production ready] [indevelopment (new features)]`
+Status: `[production ready]`
 
 
 [hasher-apis](https://www.npmjs.com/package/hasher-apis) - Simple and flexible implementation Crypto Module functions to hash/ encrypt/ decrypt content and get SHA or other algorithm hashes of text or any data [https://github.com/ganeshkbhat/hasher-apis](https://github.com/ganeshkbhat/hasher-apis)
