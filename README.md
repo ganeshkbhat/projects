@@ -189,7 +189,7 @@ Status: `[production ready] [indevelopment (new features)]`
 
 
 [check-esm](https://www.npmjs.com/package/check-esm) - 
-Javascript functions to check if the file is a `ES Module` or a `CJS/ JS Module` or `Script` [https://github.com/ganeshkbhat/get-isesm](https://github.com/ganeshkbhat/get-isesm)
+JS functions to `check all imports or required modules` and `check if` the file is a `ES Module` or a `CJS/ JS Module` or `Script` [https://github.com/ganeshkbhat/get-isesm](https://github.com/ganeshkbhat/get-isesm)
 
 
 `npm install check-esm --save`
@@ -221,7 +221,7 @@ Status: `[production ready] [indevelopment (new features)]`
 
 
 [root-dirs](https://github.com/ganeshkbhat/get-root) - 
-Get root folders of `git`, `svn`, `mercurial`, `ftp`, nodejs `node_modules`, nodejs `package.json`, nodejs `.jscache` folder [https://github.com/ganeshkbhat/get-root](https://github.com/ganeshkbhat/get-root)
+Get root folders of `git`, `svn`, `mercurial`, nodejs `node_modules` / `package.json` / `package-lock.json`, and nodejs `.jscache` folder [https://github.com/ganeshkbhat/get-root](https://github.com/ganeshkbhat/get-root)
 
 
 `npm install root-dirs --save`
@@ -236,7 +236,7 @@ Get root folders of `git`, `svn`, `mercurial`, `ftp`, nodejs `node_modules`, nod
 Status: `[production ready] [indevelopment (new features)]`
 
 
-[hasher-apis](https://www.npmjs.com/package/hasher-apis) - Simple and very flexible implementation API functions to hash content or get SHA hashes of text [https://github.com/ganeshkbhat/hasher-apis](https://github.com/ganeshkbhat/hasher-apis)
+[hasher-apis](https://www.npmjs.com/package/hasher-apis) - Simple and flexible implementation Crypto Module functions to hash/ encrypt/ decrypt content and get SHA or other algorithm hashes of text or any data [https://github.com/ganeshkbhat/hasher-apis](https://github.com/ganeshkbhat/hasher-apis)
 
 
 `npm install hasher-apis --save`
