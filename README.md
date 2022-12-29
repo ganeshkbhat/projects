@@ -87,7 +87,7 @@ Status: `[production ready] [indevelopment (new features)]`
 
 [traverse-fs](https://github.com/traverse-fs/glob-traverse-fs) - Traversing file system recursively, [git repo](https://github.com/traverse-fs/glob-traverse-fs), [npmjs traverse-fs](https://www.npmjs.com/package/traverse-fs)
 
-`traverse-fs` is a nodejs npm module to traverse files and folder using code, or cli, or use glob patterns
+`traverse-fs` is a npm module to traverse files and folder using code, or cli, or use glob patterns
 
 
 `npm install traverse-fs --save`
@@ -104,7 +104,7 @@ Status: `[production ready] [indevelopment (new features)]`
 
 [fssys](https://github.com/traverse-fs/fssys) - Traversing file system recursively, [git repo](https://github.com/traverse-fs/glob-traverse-fs), [npmjs fssys](https://www.npmjs.com/package/fssys)
 
-`fssys` is a nodejs npm module to traverse files and folder using code, or cli, or use glob patterns
+`fssys` is a npm module to read write folder/files, fs util functions, traverse files and folder using code, or cli, or use glob patterns
 
 
 `npm install fssys --save`
