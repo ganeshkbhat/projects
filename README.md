@@ -272,9 +272,30 @@ Status: `[indevelopment (MVP)]`
 `npm install request-apis --save`
 
 
-<!-- git-apis
-mercurial-apis
-svn-apis -->
+
+---
+
+
+#### queues.js
+
+Status: `[indevelopment (MVP)]`
+
+
+[ queues.js](https://www.npmjs.com/package/queues.js) - npm module for start ended lifo/ fifo, normal js ended lifo/ fifo, double ended queue and semaphore queue implementation [https://github.com/ganeshkbhat/queues.js](https://github.com/ganeshkbhat/queues.js)
+
+
+`npm install request-apis --save`
+
+
+<!-- 
+
+https://github.com/ganeshkbhat/apis-git
+https://github.com/ganeshkbhat/apis-mercurial
+https://github.com/ganeshkbhat/apis-svn
+https://github.com/ganeshkbhat/store
+https://github.com/ganeshkbhat/concurrency.js.extended 
+
+-->
 
 
 ---
