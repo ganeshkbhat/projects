@@ -150,7 +150,7 @@ It is pretty fast based on the number of iterations needed. Performance time che
 `Max iterations 16666 for n == 100000 instead of 100000 of conventional way.`
 
 
-`npm install fast-prime --save` , `npm install fast-prime-client --save`
+`npm install fast-prime --save` , `npm install fast-prime-client --save` , `pip install fast-prime`
 
 
 
