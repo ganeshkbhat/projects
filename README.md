@@ -4,18 +4,18 @@
 
 Key projects being worked on along with their problem statements and status. [ganeshkbhat](https://www.github.com/ganeshkbhat)
 
-- [taskcontrols](#taskcontrols) - Workflow Automation Library with support for Concurrent, or Event based processes/activities in Local/Network Automation Tasks
-- [desktop-cgi](#desktopcgi) - Create Desktop executable app using interpreted languages like `PHP`, `Ruby`, `Python`, `Perl`, `CGI`, `JSP`, `ASPX`, `Other` Interpreted Languages)
-- [cgijs](#cgijs), [phpcgijs](#phpcgijs) - CGIJS is a library to run any CGI mode / Interpreted language script files, or connect to any web application server proxies, or manage processes in the system
-- [traverse-fs](#traversefs), [fssys](#fssys) - Traversing and (glob) searching file system recursively along with other utility functions
-- [require-urls](#requireurls) - Require / Import Deno and GoLang style remote urls
-- [fastprimenumbers](#fastprimenumbers), [fast-prime](#fastprime), [fast-prime-client](#fastprimeclient), [fasterprimes](#fasterprimes) - Fastest Prime Number Calculation (checks and generation) logic
-- [check-esm](#checkesm), [get-imported](#getimported) - Check all imports or required modules and check if the file is a ES Module or a CJS/ JS Module or Script
-- [root-dirs](#rootdirs) - Get root folders of git, svn, mercurial, nodejs node_modules / package.json / package-lock.json, and nodejs .jscache folder
-- [hasher-apis](#hasherapis) - Implementation Crypto Module functions to hash/ encrypt/ decrypt content and get SHA or other algorithm hashes of text or any data
-- [concurrency.js](#concurrencyjs) - Module to work with `concurrency - worker threads and worker processes`
-- [request-apis](#requestapis) - Common request APIs and basic http requests utils
-- [queues.js](#queuesjs) - Start ended lifo/ fifo, normal js ended lifo/ fifo, double ended queue and semaphore queue implementation
+- [taskcontrols](#taskcontrols) - `Workflow Automation Library` with support for Concurrent, or Event based processes/activities in Local/Network Automation Tasks.
+- [desktop-cgi](#desktopcgi) - Create Desktop executable app using interpreted languages like `PHP`, `Ruby`, `Python`, `Perl`, `CGI`, `JSP`, `ASPX`, `Other` Interpreted Languages).
+- [cgijs](#cgijs), [phpcgijs](#phpcgijs) - CGIJS is a library to run any CGI mode / Interpreted language script files, or connect to any web application server proxies, or manage processes in the system.
+- [traverse-fs](#traversefs), [fssys](#fssys) - `Traversing` and (glob) `searching` file and folder system recursively along with other utility functions.
+- [require-urls](#requireurls) - `Require` / `Import` Deno and GoLang style `remote urls`.
+- [fastprimenumbers](#fastprimenumbers), [fast-prime](#fastprime), [fast-prime-client](#fastprimeclient), [fasterprimes](#fasterprimes) - Fastest `Prime Number` Calculation (`checks` and `generation`) logic.
+- [check-esm](#checkesm), [get-imported](#getimported) - Check all imports or required modules and check if the file is a ES Module or a CJS/ JS Module or Script.
+- [root-dirs](#rootdirs) - `Get root folders` of git, svn, mercurial, nodejs node_modules / package.json / package-lock.json, and nodejs .jscache folder.
+- [hasher-apis](#hasherapis) - Simple implementation Crypto Module functions to hash/ encrypt/ decrypt content and get SHA or other algorithm hashes of text or any data.
+- [concurrency.js](#concurrencyjs) - Module to work with `concurrency` - worker threads and worker processes.
+- [request-apis](#requestapis) - Common request APIs and basic `http` requests utils.
+- [queues.js](#queuesjs) - Start ended lifo/ fifo, normal js ended lifo/ fifo, double ended queue and semaphore `queues` implementation.
 
 
 ---
