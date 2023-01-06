@@ -4,10 +4,24 @@
 
 Key projects being worked on along with their problem statements and status. [ganeshkbhat](https://www.github.com/ganeshkbhat)
 
+- [taskcontrols](#taskcontrols)
+- [desktop-cgi](#desktopcgi)
+- [cgijs](#cgijs), [phpcgijs](#phpcgijs)
+- [traverse-fs](#traversefs), [fssys](#fssys)
+- [require-urls](#requireurls)
+- [fastprimenumbers](#fastprimenumbers), [fast-prime](#fastprime), [fast-prime-client](#fastprimeclient), [fasterprimes](#fasterprimes)
+- [check-esm](#checkesm), [get-imported](#getimported)
+- [root-dirs](#rootdirs)
+- [hasher-apis](#hasherapis)
+- [concurrency.js](#concurrencyjs)
+- [request-apis](#requestapis)
+- [queues.js](#queuesjs)
+
+
 ---
 
 
-#### taskcontrols
+#### <a name="taskcontrols"></a>taskcontrols
 
 Status: `[indevelopment (MVP)]`
 
@@ -28,7 +42,7 @@ Status: `[indevelopment (MVP)]`
 ---
 
 
-#### desktop-cgi
+#### <a name="desktopcgi"></a>desktop-cgi
 
 Status: `[indevelopment (MVP)]`
 
@@ -44,7 +58,7 @@ Create Desktop executable app using CGI files, embedded webserver CGI apps (`PHP
 ---
 
 
-#### cgijs
+#### <a name="cgijs"></a>cgijs
 
 Status: `[production ready] [indevelopment (new features)]`
 
@@ -65,7 +79,7 @@ Status: `[production ready] [indevelopment (new features)]`
 ---
 
 
-#### phpcgijs
+#### <a name="phpcgijs"></a>phpcgijs
 
 Status: `[production ready] [indevelopment (new features)]`
 
@@ -84,7 +98,7 @@ Includes `CGIJS` Library as a dependancy.
 ---
 
 
-#### traverse-fs
+#### <a name="traversefs"></a>traverse-fs
 
 Status: `[production ready] [consideration (new features)]`
 
@@ -101,7 +115,7 @@ Status: `[production ready] [consideration (new features)]`
 ---
 
 
-#### fssys
+#### <a name="fssys"></a>fssys
 
 Status: `[production ready] [consideration (new features)]`
 
@@ -118,7 +132,7 @@ Status: `[production ready] [consideration (new features)]`
 ---
 
 
-#### require-urls
+#### <a name="requireurls"></a>require-urls
 
 Status: `[indevelopment (MVP)]`
 
@@ -135,7 +149,7 @@ Status: `[indevelopment (MVP)]`
 ---
 
 
-#### fastprimenumbers
+#### <a name="fastprimenumbers"></a>fastprimenumbers
 
 Status: `[production ready]`
 
@@ -157,7 +171,7 @@ It is pretty fast based on the number of iterations needed. Performance time che
 ---
 
 
-#### fast-prime
+#### <a name="fastprime"></a>fast-prime
 
 Status: `[production ready]`
 
@@ -172,7 +186,7 @@ Status: `[production ready]`
 ---
 
 
-#### fast-prime-client
+#### <a name="fastprimeclient"></a>fast-prime-client
 
 Status: `[production ready]`
 
@@ -187,7 +201,7 @@ Status: `[production ready]`
 ---
 
 
-#### check-esm
+#### <a name="checkesm"></a>check-esm
 
 Status: `[production ready] [consideration (new features)]`
 
@@ -203,7 +217,7 @@ JS functions to `check all imports or required modules` and `check if` the file 
 ---
 
 
-#### get-imported
+#### <a name="getimported"></a>get-imported
 
 Status: `[production ready]`
 
@@ -219,7 +233,7 @@ JS functions to `check all imports or required modules` and `check if` the file 
 ---
 
 
-#### root-dirs
+#### <a name="rootdirs"></a>root-dirs
 
 Status: `[production ready] [consideration (new features)]`
 
@@ -235,7 +249,7 @@ Get root folders of `git`, `svn`, `mercurial`, nodejs `node_modules` / `package.
 ---
 
 
-#### hasher-apis
+#### <a name="hasherapis"></a>hasher-apis
 
 Status: `[production ready]`
 
@@ -250,7 +264,7 @@ Status: `[production ready]`
 ---
 
 
-#### concurrency.js
+#### <a name="concurrencyjs"></a>concurrency.js
 
 Status: `[production ready] [indevelopment (new features)]`
 
@@ -265,7 +279,7 @@ Status: `[production ready] [indevelopment (new features)]`
 ---
 
 
-#### request-apis
+#### <a name="requestapis"></a>request-apis
 
 Status: `[indevelopment (MVP)]`
 <!-- `[production ready]` -->
@@ -280,7 +294,7 @@ Status: `[indevelopment (MVP)]`
 ---
 
 
-#### queues.js
+#### <a name="queuesjs"></a>queues.js
 
 Status: `[indevelopment (MVP)]`
 
