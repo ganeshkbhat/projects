@@ -6,7 +6,7 @@ Key projects being worked on along with their problem statements and status. [ga
 
 - [taskcontrols](#taskcontrols) - `Workflow Automation Library` with support for Concurrent, or Event based processes/activities in Local/Network Automation Tasks.
 - [desktop-cgi](#desktopcgi) - Create Desktop executable app using interpreted languages like `PHP`, `Ruby`, `Python`, `Perl`, `CGI`, `JSP`, `ASPX`, `Other` Interpreted Languages).
-- [cgijs](#cgijs), [phpcgijs](#phpcgijs) - CGIJS is a library to run any CGI mode / Interpreted language script files, or connect to any web application server proxies, or manage processes in the system.
+- [cgijs](#cgijs), [phpcgijs](#phpcgijs) - CGIJS is a library to `run any` CGI mode / `Interpreted language script files`, or connect to any web application server proxies, or manage processes in the system.
 - [traverse-fs](#traversefs), [fssys](#fssys) - `Traversing` and (glob) `searching` file and folder system recursively along with other utility functions.
 - [require-urls](#requireurls) - `Require` / `Import` Deno and GoLang style `remote urls`.
 - [fastprimenumbers](#fastprimenumbers), [fast-prime](#fastprime), [fast-prime-client](#fastprimeclient), [fasterprimes](#fasterprimes) - Fastest `Prime Number` Calculation (`checks` and `generation`) logic.
