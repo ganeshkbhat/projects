@@ -264,7 +264,7 @@ Status: `[production ready] [indevelopment (new features)]`
 #### request-apis
 
 Status: `[indevelopment (MVP)]`
-
+<!-- `[production ready]` -->
 
 [request-apis](https://www.npmjs.com/package/request-apis) - npm module for common request APIs and basic http requests utils [https://github.com/ganeshkbhat/request-apis](https://github.com/ganeshkbhat/request-apis)
 
