@@ -10,9 +10,9 @@ Key projects being worked on along with their problem statements and status. [ga
 - [traverse-fs](#traversefs), [fssys](#fssys) - `Traversing` and (glob) `searching` file and folder system recursively along with other utility functions.
 - [require-urls](#requireurls) - `Require` / `Import` Deno and GoLang style `remote urls`.
 - [fastprimenumbers](#fastprimenumbers), [fast-prime](#fastprime), [fast-prime-client](#fastprimeclient), [fasterprimes](#fasterprimes) - Fastest `Prime Number` Calculation (`checks` and `generation`) logic.
-- [check-esm](#checkesm), [get-imported](#getimported) - Check all imports or required modules and check if the file is a ES Module or a CJS/ JS Module or Script.
+- [check-esm](#checkesm), [get-imported](#getimported) - Check/ `Get all imports or required modules` and check if the file is a ES Module or a CJS/ JS Module or Script.
 - [root-dirs](#rootdirs) - `Get root folders` of git, svn, mercurial, nodejs node_modules / package.json / package-lock.json, and nodejs .jscache folder.
-- [hasher-apis](#hasherapis) - Simple implementation Crypto Module functions to hash/ encrypt/ decrypt content and get SHA or other algorithm hashes of text or any data.
+- [hasher-apis](#hasherapis) - Simple implementation of `Crypto Module functions` to hash/ encrypt/ decrypt content and get SHA or other algorithm hashes of text or any data.
 - [concurrency.js](#concurrencyjs) - Module to work with `concurrency` - worker threads and worker processes.
 - [request-apis](#requestapis) - Common request APIs and basic `http` requests utils.
 - [queues.js](#queuesjs) - Start ended lifo/ fifo, normal js ended lifo/ fifo, double ended queue and semaphore `queues` implementation.
