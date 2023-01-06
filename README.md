@@ -140,7 +140,7 @@ Status: `[indevelopment (MVP)]`
 Status: `[production ready]`
 
 
-[fastprimenumbers](https://github.com/ganeshkbhat/fastprimenumbers) - Probably the fastest prime number calculations, [git repo](https://github.com/ganeshkbhat/fastprimenumbers), [npmjs fast-prime](https://www.npmjs.com/package/fast-prime), [pypi fastprime]()
+[fastprimenumbers](https://github.com/ganeshkbhat/fastprimenumbers) - Probably the fastest prime number calculations, [git repo](https://github.com/ganeshkbhat/fastprimenumbers), [npmjs fast-prime](https://www.npmjs.com/package/fast-prime), [pypi fastprime](https://pypi.org/project/fast-prime/)
 
 `Fastest Prime Number Calculation (checks) logic` and This probably is the BEST solution in the internet as of today 11th March 2022. This same code has been applied in many languages (and can be applied to) like `Python`, `Java`, `PHP`, `Node.js`, `Javascript`, `typescript` and can be applied to  `C`, `Go` Lang, `C++`, `.NET`, `Rust`, etc with the same logic and have performance benefits. 
 
