@@ -16,7 +16,7 @@ Key projects being worked on along with their problem statements and status. [ga
 - [concurrency.js](#concurrencyjs) - Module to work with `concurrency` - worker threads and worker processes.
 - [request-apis](#requestapis) - Common request APIs and basic `http` requests utils.
 - [queues.js](#queuesjs) - node package for top and bottom plus lifo/ fifo queues, stack, priority queues, double ended queues, circular queues, wait queues (TODO), and semaphore queues (TODO) implementation.
-- [extenders](#extenders) - Node module for Array, Object, String, Decorator extention Utils like for Python and more for Node.js.
+- [extenders](#extenders) - node package for Array, Object, String, Decorator extention Utils like for Python and more for Node.js.
 
 ---
 
@@ -313,7 +313,7 @@ Status: `[indevelopment (MVP)]`
 Status: `[indevelopment (MVP)]`
 
 
-[extenders](https://www.npmjs.com/package/extenders) - Node module for Array, Object, String, Decorator extention Utils like for Python and more for Node.js [https://github.com/ganeshkbhat/jsextenders](https://github.com/ganeshkbhat/jsextenders)
+[extenders](https://www.npmjs.com/package/extenders) - node package for Array, Object, String, Decorator extention Utils like for Python and more for Node.js [https://github.com/ganeshkbhat/jsextenders](https://github.com/ganeshkbhat/jsextenders)
 
 
 `npm install extenders --save`
