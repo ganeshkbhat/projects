@@ -305,6 +305,20 @@ Status: `[indevelopment (MVP)]`
 `npm install queue.js --save`
 
 
+---
+
+
+#### <a name="extenders"></a>extenders
+
+Status: `[indevelopment (MVP)]`
+
+
+[extenders](https://www.npmjs.com/package/extenders) - Node module for Array, Object, String, Decorator extention Utils like for Python and more for Node.js [https://github.com/ganeshkbhat/jsextenders](https://github.com/ganeshkbhat/jsextenders)
+
+
+`npm install extenders --save`
+
+
 <!-- 
 
 https://github.com/ganeshkbhat/apis-git
