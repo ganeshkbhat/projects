@@ -299,7 +299,7 @@ Status: `[indevelopment (MVP)]`
 Status: `[indevelopment (MVP)]`
 
 
-[ queues.js](https://www.npmjs.com/package/queues.js) - npm module for start ended lifo/ fifo, normal js ended lifo/ fifo, double ended queue and semaphore queue implementation [https://github.com/ganeshkbhat/queues.js](https://github.com/ganeshkbhat/queues.js)
+[ queues.js](https://www.npmjs.com/package/queues.js) - node package for top and bottom plus lifo/ fifo queues, stack, priority queues, double ended queues, circular queues, wait queues (TODO), and semaphore queues (TODO) implementation [https://github.com/ganeshkbhat/queues.js](https://github.com/ganeshkbhat/queues.js)
 
 
 `npm install queue.js --save`
