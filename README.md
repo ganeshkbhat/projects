@@ -15,7 +15,7 @@ Key projects being worked on along with their problem statements and status. [ga
 - [hasher-apis](#hasherapis) - Simple implementation of `Crypto Module functions` to hash/ encrypt/ decrypt content and get SHA or other algorithm hashes of text or any data.
 - [concurrency.js](#concurrencyjs) - Module to work with `concurrency` - worker threads and worker processes.
 - [request-apis](#requestapis) - Common request APIs and basic `http` requests utils.
-- [queues.js](#queuesjs) - Start ended lifo/ fifo, normal js ended lifo/ fifo, double ended queue, wait queue, circular queue, priority queue, and semaphore `queues` implementation.
+- [queues.js](#queuesjs) - node package for top and bottom plus lifo/ fifo queues, stack, priority queues, double ended queues, circular queues, wait queues (TODO), and semaphore queues (TODO) implementation.
 - [extenders](#extenders) - Node module for Array, Object, String, Decorator extention Utils like for Python and more for Node.js.
 
 ---
