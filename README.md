@@ -311,7 +311,7 @@ Status: `[production ready] [indevelopment (new features)] [consideration (new f
 
 #### <a name="extenders"></a>extenders
 
-Status: `[indevelopment (MVP)]`
+Status: `[indevelopment (MVP)] [consideration (new features)]`
 
 
 [extenders](https://www.npmjs.com/package/extenders) - node package for Array, Object, String, Decorator extention Utils like for Python and more for Node.js [https://github.com/ganeshkbhat/jsextenders](https://github.com/ganeshkbhat/jsextenders)
