@@ -17,6 +17,7 @@ Key projects being worked on along with their problem statements and status. [ga
 - [request-apis](#requestapis) - Common request APIs and basic `http` requests utils.
 - [queues.js](#queuesjs) - node package for top and bottom plus lifo/ fifo queues, stack, priority queues, double ended queues, circular queues, wait queues (TODO), and semaphore queues (TODO) implementation.
 - [extenders](#extenders) - node package for Array, Object, String, Decorator extention Utils like for Python and more for Node.js.
+- [mutables](#mutables) - Manage immutable stores with no jazz in a simple manner. Exploring simpler architectures
 
 ---
 
@@ -317,6 +318,21 @@ Status: `[indevelopment (MVP)]`
 
 
 `npm install extenders --save`
+
+
+---
+
+
+#### <a name="mutables"></a>mutables
+
+Status: `[indevelopment (MVP)]`
+
+
+[mutables](https://www.npmjs.com/package/mutables) - Manage immutable stores with no jazz in a simple manner. Exploring simpler architectures [https://github.com/ganeshkbhat/store](https://github.com/ganeshkbhat/store)
+
+
+`npm install mutables --save`
+
 
 
 <!-- 
