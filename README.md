@@ -297,10 +297,10 @@ Status: `[indevelopment (MVP)]`
 
 #### <a name="queuesjs"></a>queues.js
 
-Status: `[indevelopment (MVP)]`
+Status: `[indevelopment (new features)]`
 
 
-[ queues.js](https://www.npmjs.com/package/queues.js) - node package for top and bottom plus lifo/ fifo queues, stack, priority queues, double ended queues, circular queues, wait queues (TODO), and semaphore queues (TODO) implementation [https://github.com/ganeshkbhat/queues.js](https://github.com/ganeshkbhat/queues.js)
+[ queues.js](https://www.npmjs.com/package/queues.js) - node package for top and bottom plus lifo/ fifo queues, stack, priority queues, double ended queues, circular queues (TODO), wait queues (TODO), and semaphore queues (TODO) implementation [https://github.com/ganeshkbhat/queues.js](https://github.com/ganeshkbhat/queues.js)
 
 
 `npm install queue.js --save`
