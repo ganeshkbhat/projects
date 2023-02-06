@@ -267,7 +267,7 @@ Status: `[production ready]`
 
 #### <a name="concurrencyjs"></a>concurrency.js
 
-Status: `[production ready] [indevelopment (new features)]`
+Status: `[indevelopment (MVP)] [indevelopment (new features)] [consideration (new features)]`
 
 
 [concurrency.js](https://www.npmjs.com/package/concurrency.js) - npm module to work with `concurrency - worker threads and worker processes` easily using simple functions and script files [https://github.com/ganeshkbhat/concurrency.js](https://github.com/ganeshkbhat/concurrency.js)
