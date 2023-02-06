@@ -328,7 +328,7 @@ Status: `[indevelopment (MVP)]`
 Status: `[indevelopment (MVP)]`
 
 
-[mutables](https://www.npmjs.com/package/mutables) - Manage immutable stores with no jazz in a simple manner. Exploring simpler architectures [https://github.com/ganeshkbhat/store](https://github.com/ganeshkbhat/store)
+[mutables](https://www.npmjs.com/package/mutables) - npm module to work with immutable stores. Manage immutable stores with no jazz in a simple manner. Exploring simpler immutable stores architectures [https://github.com/ganeshkbhat/store](https://github.com/ganeshkbhat/store)
 
 
 `npm install mutables --save`
