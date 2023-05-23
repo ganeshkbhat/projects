@@ -18,7 +18,6 @@ Key projects being worked on along with their problem statements and status. [ga
 - [fastprimenumbers](#fastprimenumbers), [fast-prime](#fastprime), [fast-prime-client](#fastprimeclient), [fasterprimes](#fasterprimes) - Fastest `Prime Number` Calculation (`checks` and `generation`) logic.
 - [hasher-apis](#hasherapis) - Simple implementation of `Crypto Module functions` to hash/ encrypt/ decrypt content and get SHA or other algorithm hashes of text or any data.
 
----
 
 ---
 
