@@ -10,9 +10,10 @@ Ganesh `IS` an `Accountable`, `Responsible`, and `Ethical` programmer. Learnings
 
 Key projects being worked on along with their problem statements and status. [ganeshkbhat](https://www.github.com/ganeshkbhat)
 
-- [taskcontrols](#taskcontrols) - `Workflow Automation Library` with support for Concurrent, or Event based processes/activities in Local/Network Automation Tasks.
+
 - [desktop-cgi](#desktopcgi) - Create `Desktop executable app` using interpreted languages like `PHP`, `Ruby`, `Python`, `Perl`, `CGI`, `JSP`, `ASPX`, `Other` Interpreted Languages).
 - [cgijs](#cgijs), [phpcgijs](#phpcgijs) - CGIJS is a library to `run any` CGI mode / `Interpreted language script files`, or connect to any web application server proxies, or manage processes in the system.
+- [taskcontrols](#taskcontrols) - `Workflow Automation Library` with support for Concurrent, or Event based processes/activities in Local/Network Automation Tasks.
 - [require-urls](#requireurls) - `Require` / `Import` Deno and GoLang style `remote urls`.
 - [loadbalancer](#loadbalancerjs) - threaded and clustered load balancer for nodejs with different forwarding algorithms and server request handling options
 - [fastprimenumbers](#fastprimenumbers), [fast-prime](#fastprime), [fast-prime-client](#fastprimeclient), [fasterprimes](#fasterprimes) - Fastest `Prime Number` Calculation (`checks` and `generation`) logic.
@@ -40,35 +41,6 @@ Other projects and status. [ganeshkbhat](https://www.github.com/ganeshkbhat)
 - [scale.concurrency](#scale.concurrency) - [github](https://github.com/ganeshkbhat/concurrency.js.extended) , [npm](https://www.npmjs.com/package/scale.concurrency) 
 
 
----
-
-#### <a name="taskcontrols"></a>taskcontrols
-
-Status: `[indevelopment (MVP)]`
-
-[taskcontrols](https://www.github.com/taskcontrols) - DevOps (DevSecOps) Workflow Automation Library with support for Concurrent, or Event based processes/activities in Local/Network Automation Tasks
-
-`taskcontrol` is intended to be a set of multi-language micro-libraries (`python`, `nodejs`[todo], `typescript`[todo]) to `create, run, manage, and monitor tasks and workflows with data persistance and task-unit level secure operations`. It allows working with multiple architecture modes (with data persistance and security) including `publisher-subscriber`, `agent-less`, `server-agent`, `web api`, `webhooks`, and `message queues`.
-
-- [git python repo](https://www.github.com/taskcontrols/py-taskcontrols), [pypi taskcontrol](https://pypi.org/project/taskcontrol/) [in active development]
-
-`pip3 install taskcontrol`
-
-- [git nodejs repo](https://github.com/taskcontrols/js-taskcontrol), [nodejs taskcontrol](https://www.npmjs.com/package/taskcontrol) [indevelopment - do not install]
-
-`npm install taskcontrol`
-
----
-
-#### <a name="desktopcgi"></a>desktop-cgi
-
-Status: `[indevelopment (MVP)]`
-
-[desktop-cgi](https://www.github.com/desktop-cgi) - Desktop apps using DesktopCGI, CGIJS, PHPCGIJS, [git repo https://www.github.com/desktop-cgi](https://www.github.com/desktop-cgi/desktop-cgi)
-
-Create Desktop executable app using CGI files, embedded webserver CGI apps (`PHP`, `Ruby`, `Python`, `Perl`, `CGI`, `JSP`, `ASPX`, `Other` Interpreted Languages), or remote proxies.
-
-`Desktop-CGI` is a desktop executable app that can be created from any CGI files or CGI web apps that can be served from an file, an embedded web server using proxy, or an remote proxy web server. It supports embedding and managing embeddable databases and executables. It supports all major Operating systems supported by electron like Windows, Linux, and MacOS supported by Electron.
 
 ---
 
@@ -88,17 +60,6 @@ Status: `[production ready] [indevelopment (new features)]`
 
 ---
 
----
-
-#### <a name="loadbalancerjs"></a>loadbalancerjs
-
-Status: `[production ready] [indevelopment (new features)]`
-
-[loadbalancer](https://www.github.com/ganeshkbhat/loadbalancer) - [git repo](https://www.github.com/ganeshkbhat/loadbalancer) , [npmjs loadbalancer](https://www.npmjs.com/package/loadbalancerjs)
-
-`npm install loadbalancerjs --save`
-
----
 
 #### <a name="phpcgijs"></a>phpcgijs
 
@@ -111,6 +72,53 @@ Run php scripts like wordpress, drupal, etc with node and cgi counter parts usin
 Includes `CGIJS` Library as a dependancy.
 
 `npm install phpcgijs --save`
+
+
+---
+
+
+#### <a name="desktopcgi"></a>desktop-cgi
+
+Status: `[indevelopment (MVP)]`
+
+[desktop-cgi](https://www.github.com/desktop-cgi) - Desktop apps using DesktopCGI, CGIJS, PHPCGIJS, [git repo https://www.github.com/desktop-cgi](https://www.github.com/desktop-cgi/desktop-cgi)
+
+Create Desktop executable app using CGI files, embedded webserver CGI apps (`PHP`, `Ruby`, `Python`, `Perl`, `CGI`, `JSP`, `ASPX`, `Other` Interpreted Languages), or remote proxies.
+
+`Desktop-CGI` is a desktop executable app that can be created from any CGI files or CGI web apps that can be served from an file, an embedded web server using proxy, or an remote proxy web server. It supports embedding and managing embeddable databases and executables. It supports all major Operating systems supported by electron like Windows, Linux, and MacOS supported by Electron.
+
+
+---
+
+
+#### <a name="taskcontrols"></a>taskcontrols
+
+Status: `[indevelopment (MVP)]`
+
+[taskcontrols](https://www.github.com/taskcontrols) - DevOps (DevSecOps) Workflow Automation Library with support for Concurrent, or Event based processes/activities in Local/Network Automation Tasks
+
+`taskcontrol` is intended to be a set of multi-language micro-libraries (`python`, `nodejs`[todo], `typescript`[todo]) to `create, run, manage, and monitor tasks and workflows with data persistance and task-unit level secure operations`. It allows working with multiple architecture modes (with data persistance and security) including `publisher-subscriber`, `agent-less`, `server-agent`, `web api`, `webhooks`, and `message queues`.
+
+- [git python repo](https://www.github.com/taskcontrols/py-taskcontrols), [pypi taskcontrol](https://pypi.org/project/taskcontrol/) [in active development]
+
+`pip3 install taskcontrol`
+
+- [git nodejs repo](https://github.com/taskcontrols/js-taskcontrol), [nodejs taskcontrol](https://www.npmjs.com/package/taskcontrol) [indevelopment - do not install]
+
+`npm install taskcontrol`
+
+
+---
+
+
+#### <a name="loadbalancerjs"></a>loadbalancerjs
+
+Status: `[production ready] [indevelopment (new features)]`
+
+[loadbalancer](https://www.github.com/ganeshkbhat/loadbalancer) - [git repo](https://www.github.com/ganeshkbhat/loadbalancer) , [npmjs loadbalancer](https://www.npmjs.com/package/loadbalancerjs)
+
+`npm install loadbalancerjs --save`
+
 
 ---
 
