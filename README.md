@@ -1,5 +1,14 @@
 # Krishnamurthy Ganesh - projects
 
+
+Ganesh is people manager who learnt the art of programming like you. Hands on. 
+
+Ganesh comes with problems solving skills and strive to solve some serious industry problems like you. Ganesh comes with technical and key skills are `js`, `angular`, `react`, `typescript`, `nodejs`, anything javascript, `python`, `django`, `data science`, `project management`. I am a `golang` beginner. Ganesh is an `BS 7799 data security organizational internal auditor`, `ISO 9001 organzational internal auditor`, and `Six Sigma Green belt candidate`. 
+
+
+Ganesh `IS` an `Accountable`, `Responsible`, and `Ethical` programmer. 
+
+
 ---
 
 Key projects being worked on along with their problem statements and status. [ganeshkbhat](https://www.github.com/ganeshkbhat)
@@ -323,6 +332,7 @@ Status: `[indevelopment (MVP)] [consideration (new features)]`
 ---
 
 
+
 #### <a name="mutables"></a>mutables
 
 Status: `[indevelopment (MVP)]`
@@ -332,8 +342,20 @@ Status: `[indevelopment (MVP)]`
 
 
 `npm install mutables --save`
+<!-- 
 
 
+#### <a name="link"></a>link
+
+Status: `[indevelopment (MVP)]`
+
+
+[link](https://www.npmjs.com/package/link) - [https://github.com/ganeshkbhat/link](https://github.com/ganeshkbhat/link)
+
+
+`npm install link --save`
+
+ -->
 
 <!-- 
 
