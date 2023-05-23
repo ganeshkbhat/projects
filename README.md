@@ -32,12 +32,14 @@ Other projects and status. [ganeshkbhat](https://www.github.com/ganeshkbhat)
 - [queues.js](#queuesjs) - node package for top and bottom plus lifo/ fifo queues, stack, priority queues, double ended queues, circular queues, wait queues (TODO), and semaphore queues (TODO) implementation.
 - [extenders](#extenders) - node package for Array, Object, String, Decorator extention Utils like for Python and more for Node.js.
 - [mutables](#mutables) - Manage immutable stores with no jazz in a simple manner. Exploring simpler immutable stores architectures.
-
+- [fssys](#fssys):  [github](https://github.com/traverse-fs/fssys) , [npm](https://www.npmjs.com/package/fssys)
 - [store](#store):  [github](https://github.com/ganeshkbhat/store) , [npm](https://www.npmjs.com/package/managers)
 - [mod-pickle](#mod-pickle):  [github](https://github.com/ganeshkbhat/pickler) , [npm](https://www.npmjs.com/package/mod-pickle)
 - [ndarrays](#ndarrays):  [github](https://github.com/ganeshkbhat/numericalarrays) , [npm](https://www.npmjs.com/package/ndarrays)
 - [express-noserve](#express-noserve):  [github](https://github.com/ganeshkbhat/noserver-expressjs) , [npm](https://www.npmjs.com/package/express-noserve)
 - [noserve](#noserve):  [github](https://github.com/ganeshkbhat/noserver-expressjs) , [npm](https://www.npmjs.com/package/noserve)
+- [scale.concurrency](#scale.concurrency) - [github](https://github.com/ganeshkbhat/concurrency.js.extended) , [npm](https://www.npmjs.com/package/scale.concurrency) 
+
 
 ---
 
