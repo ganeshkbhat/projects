@@ -4,7 +4,7 @@ Ganesh is people manager who learnt the art of programming like you. Hands on.
 
 Ganesh comes with problems solving skills and strive to solve some serious industry problems like you. Ganesh comes with technical and key skills are `js`, `angular`, `react`, `typescript`, `nodejs`, anything javascript, `python`, `django`, `data science`, `project management`. I am a `golang` beginner. Ganesh is an `BS 7799 data security organizational internal auditor`, `ISO 9001 organzational internal auditor`, and `Six Sigma Green belt candidate`.
 
-Ganesh is an `Accountable`, `Responsible`, and `Ethical` programmer. Learnings and Earnings will happen life long and are important. Do not, and `NEVER forget` the `ethics`, `empathy`, and `compassion`.
+Ganesh is an `Accountable`, `Responsible`, and `Ethical` programmer. Learnings and Earnings will happen life long and are important. Please do not and `NEVER forget` the `ethics`, `empathy`, and `compassion`.
 
 ---
 
@@ -16,7 +16,7 @@ Key projects being worked on along with their problem statements and status. [ga
 - [require-urls](#requireurls) - `Require` / `Import` Deno and GoLang style `remote urls`.
 - [loadbalancer](#loadbalancerjs) - threaded and clustered load balancer for nodejs with different forwarding algorithms and server request handling options
 - [fastprimenumbers](#fastprimenumbers), [fast-prime](#fastprime), [fast-prime-client](#fastprimeclient), [fasterprimes](#fasterprimes) - Fastest `Prime Number` Calculation (`checks` and `generation`) logic.
-- [hasher-apis](#hasherapis) - Simple implementation of `Crypto Module functions` to hash/ encrypt/ decrypt content and get SHA or other algorithm hashes of text or any data. Easily create public/ private keys, encrypt/decrypt files, and other commonly used hashing functions needed in your normal code. 
+- [hasher-apis](#hasherapis) - Simple implementation of `Crypto Module functions` to hash/ encrypt/ decrypt content and get SHA or other algorithm hashes of text or any data. Easily create public/ private keys, encrypt/decrypt files, and other commonly used hashing functions needed in your normal code.
 
 ---
 
@@ -30,14 +30,14 @@ Other projects and status. [ganeshkbhat](https://www.github.com/ganeshkbhat)
 - [queues.js](#queuesjs) - node package for top and bottom plus lifo/ fifo queues, stack, priority queues, double ended queues, circular queues, wait queues (TODO), and semaphore queues (TODO) implementation.
 - [extenders](#extenders) - node package for Array, Object, String, Decorator extention Utils like for Python and more for Node.js.
 - [mutables](#mutables) - Manage immutable stores with no jazz in a simple manner. Exploring simpler immutable stores architectures.
-- [fssys](#fssys): fssys is a npm module to read write folder/files, fs util functions, traverse files and folder using code, or cli, or use glob patterns. 
+- [fssys](#fssys): fssys is a npm module to read write folder/files, fs util functions, traverse files and folder using code, or cli, or use glob patterns.
 - [store](#store): npm module to work with immutable stores. Manage immutable stores with no jazz in a simple manner. Exploring simpler immutable stores architectures.
 - [mod-pickle](#mod-pickle): npm mod-pickle module implements the python pickle-like binary protocols for serializing and de-serializing a javascript object structure as in python.
 - [ndarrays](#ndarrays): ndarrays offers numerical arrays which is a comprehensive mathematical functions, random number generators, linear algebra routines, Fourier transforms, and more like NumPy. The goal is to be as near as NumPy as possible.
 - [express-noserve](#express-noserve): npm module express-noserve allows you to access the express route fetch, access, and invoke applicable Layer Objects of Middlewares and Handler/s without having to listen to a Server.
 - [noserve](#noserve): npm module express-noserve allows you to access the express route fetch, access, and invoke applicable Layer Objects of Middlewares and Handler/s without having to listen to a Server.
 - [scale.concurrency](#scale.concurrency) - npm module to work with concurrency.js - worker threads and worker processes easily using simple functions and with rxjs support.
-- [jsparsers](#jsparsers) - npm jsparsers module for file format to format convertors for ini, yaml, json, xml, html, css, less, sass. 
+- [jsparsers](#jsparsers) - npm jsparsers module for file format to format convertors for ini, yaml, json, xml, html, css, less, sass.
 
 ---
 
@@ -336,9 +336,7 @@ npm module to work with concurrency.js - worker threads and worker processes eas
 
 `npm install scale.concurrency --save`
 
-
 ---
-
 
 #### <a name="jsparsers"></a>jsparsers
 
@@ -347,7 +345,6 @@ Status: `[indevelopment (MVP)]`
 npm jsparsers module for file format to format convertors for ini, yaml, json, xml, html, css, less, sass. [github](https://github.com/ganeshkbhat/convertors) , [npm](https://www.npmjs.com/package/jsparsers)
 
 `npm install jsparsers --save`
-
 
 <!--
 
