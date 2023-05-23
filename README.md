@@ -10,7 +10,6 @@ Ganesh `IS` an `Accountable`, `Responsible`, and `Ethical` programmer. Learnings
 
 Key projects being worked on along with their problem statements and status. [ganeshkbhat](https://www.github.com/ganeshkbhat)
 
-
 - [cgijs](#cgijs), [phpcgijs](#phpcgijs) - CGIJS is a library to `run any` CGI mode / `Interpreted language script files`, or connect to any web application server proxies, or manage processes in the system.
 - [desktop-cgi](#desktopcgi) - Create `Desktop executable app` using interpreted languages like `PHP`, `Ruby`, `Python`, `Perl`, `CGI`, `JSP`, `ASPX`, `Other` Interpreted Languages).
 - [taskcontrols](#taskcontrols) - `Workflow Automation Library` with support for Concurrent, or Event based processes/activities in Local/Network Automation Tasks.
@@ -18,7 +17,6 @@ Key projects being worked on along with their problem statements and status. [ga
 - [loadbalancer](#loadbalancerjs) - threaded and clustered load balancer for nodejs with different forwarding algorithms and server request handling options
 - [fastprimenumbers](#fastprimenumbers), [fast-prime](#fastprime), [fast-prime-client](#fastprimeclient), [fasterprimes](#fasterprimes) - Fastest `Prime Number` Calculation (`checks` and `generation`) logic.
 - [hasher-apis](#hasherapis) - Simple implementation of `Crypto Module functions` to hash/ encrypt/ decrypt content and get SHA or other algorithm hashes of text or any data.
-
 
 ---
 
@@ -32,15 +30,13 @@ Other projects and status. [ganeshkbhat](https://www.github.com/ganeshkbhat)
 - [queues.js](#queuesjs) - node package for top and bottom plus lifo/ fifo queues, stack, priority queues, double ended queues, circular queues, wait queues (TODO), and semaphore queues (TODO) implementation.
 - [extenders](#extenders) - node package for Array, Object, String, Decorator extention Utils like for Python and more for Node.js.
 - [mutables](#mutables) - Manage immutable stores with no jazz in a simple manner. Exploring simpler immutable stores architectures.
-- [fssys](#fssys):  [github](https://github.com/traverse-fs/fssys) , [npm](https://www.npmjs.com/package/fssys)
-- [store](#store):  [github](https://github.com/ganeshkbhat/store) , [npm](https://www.npmjs.com/package/managers)
-- [mod-pickle](#mod-pickle):  [github](https://github.com/ganeshkbhat/pickler) , [npm](https://www.npmjs.com/package/mod-pickle)
-- [ndarrays](#ndarrays):  [github](https://github.com/ganeshkbhat/numericalarrays) , [npm](https://www.npmjs.com/package/ndarrays)
-- [express-noserve](#express-noserve):  [github](https://github.com/ganeshkbhat/noserver-expressjs) , [npm](https://www.npmjs.com/package/express-noserve)
-- [noserve](#noserve):  [github](https://github.com/ganeshkbhat/noserver-expressjs) , [npm](https://www.npmjs.com/package/noserve)
-- [scale.concurrency](#scale.concurrency) - [github](https://github.com/ganeshkbhat/concurrency.js.extended) , [npm](https://www.npmjs.com/package/scale.concurrency) 
-
-
+- [fssys](#fssys): [github](https://github.com/traverse-fs/fssys) , [npm](https://www.npmjs.com/package/fssys)
+- [store](#store): [github](https://github.com/ganeshkbhat/store) , [npm](https://www.npmjs.com/package/managers)
+- [mod-pickle](#mod-pickle): [github](https://github.com/ganeshkbhat/pickler) , [npm](https://www.npmjs.com/package/mod-pickle)
+- [ndarrays](#ndarrays): [github](https://github.com/ganeshkbhat/numericalarrays) , [npm](https://www.npmjs.com/package/ndarrays)
+- [express-noserve](#express-noserve): [github](https://github.com/ganeshkbhat/noserver-expressjs) , [npm](https://www.npmjs.com/package/express-noserve)
+- [noserve](#noserve): [github](https://github.com/ganeshkbhat/noserver-expressjs) , [npm](https://www.npmjs.com/package/noserve)
+- [scale.concurrency](#scale.concurrency) - [github](https://github.com/ganeshkbhat/concurrency.js.extended) , [npm](https://www.npmjs.com/package/scale.concurrency)
 
 ---
 
@@ -60,7 +56,6 @@ Status: `[production ready] [indevelopment (new features)]`
 
 ---
 
-
 #### <a name="phpcgijs"></a>phpcgijs
 
 Status: `[production ready] [indevelopment (new features)]`
@@ -73,9 +68,7 @@ Includes `CGIJS` Library as a dependancy.
 
 `npm install phpcgijs --save`
 
-
 ---
-
 
 #### <a name="desktopcgi"></a>desktop-cgi
 
@@ -87,9 +80,7 @@ Create Desktop executable app using CGI files, embedded webserver CGI apps (`PHP
 
 `Desktop-CGI` is a desktop executable app that can be created from any CGI files or CGI web apps that can be served from an file, an embedded web server using proxy, or an remote proxy web server. It supports embedding and managing embeddable databases and executables. It supports all major Operating systems supported by electron like Windows, Linux, and MacOS supported by Electron.
 
-
 ---
-
 
 #### <a name="taskcontrols"></a>taskcontrols
 
@@ -107,9 +98,7 @@ Status: `[indevelopment (MVP)]`
 
 `npm install taskcontrol`
 
-
 ---
-
 
 #### <a name="loadbalancerjs"></a>loadbalancerjs
 
@@ -118,7 +107,6 @@ Status: `[production ready] [indevelopment (new features)]`
 [loadbalancer](https://www.github.com/ganeshkbhat/loadbalancer) - [git repo](https://www.github.com/ganeshkbhat/loadbalancer) , [npmjs loadbalancer](https://www.npmjs.com/package/loadbalancerjs)
 
 `npm install loadbalancerjs --save`
-
 
 ---
 
@@ -286,6 +274,79 @@ Status: `[indevelopment (MVP)]`
 [mutables](https://www.npmjs.com/package/mutables) - npm module to work with immutable stores. Manage immutable stores with no jazz in a simple manner. Exploring simpler immutable stores architectures [https://github.com/ganeshkbhat/store](https://github.com/ganeshkbhat/store)
 
 `npm install mutables --save`
+
+---
+
+#### <a name="manager"></a>manager
+
+Status: `[indevelopment (MVP)]`
+
+npm module to work with immutable stores. Manage immutable stores with no jazz in a simple manner. Exploring simpler immutable stores architectures. [github](https://github.com/ganeshkbhat/store) , [npm](https://www.npmjs.com/package/managers)
+
+`npm install manager --save`
+
+---
+
+#### <a name="mod-pickle"></a>mod-pickle
+
+Status: `[indevelopment (MVP)]`
+
+npm mod-pickle module implements the python pickle-like binary protocols for serializing and de-serializing a javascript object structure as in python. [github](https://github.com/ganeshkbhat/pickler) , [npm](https://www.npmjs.com/package/mod-pickle)
+
+`npm install mod-pickle --save`
+
+---
+
+#### <a name="ndarrays"></a>ndarrays
+
+Status: `[indevelopment (MVP)]`
+
+ndarrays offers numerical arrays which is a comprehensive mathematical functions, random number generators, linear algebra routines, Fourier transforms, and more like NumPy. The goal is to be as near as NumPy as possible. [github](https://github.com/ganeshkbhat/numericalarrays) , [npm](https://www.npmjs.com/package/ndarrays)
+
+`npm install ndarrays --save`
+
+---
+
+#### <a name="express-noserve"></a>express-noserve
+
+Status: `[indevelopment (MVP)]`
+
+npm module express-noserve allows you to access the express route fetch, access, and invoke applicable Layer Objects of Middlewares and Handler/s without having to listen to a Server. [github](https://github.com/ganeshkbhat/noserver-expressjs) , [npm](https://www.npmjs.com/package/express-noserve)
+
+`npm install express-noserve --save`
+
+---
+
+#### <a name="noserve"></a>noserve
+
+Status: `[indevelopment (MVP)]`
+
+npm module express-noserve allows you to access the express route fetch, access, and invoke applicable Layer Objects of Middlewares and Handler/s without having to listen to a Server. [github](https://github.com/ganeshkbhat/noserver-expressjs) , [npm](https://www.npmjs.com/package/noserve)
+
+`npm install noserve --save`
+
+---
+
+#### <a name="scale.concurrency"></a>scale.concurrency
+
+Status: `[indevelopment (MVP)]`
+
+npm module to work with concurrency.js - worker threads and worker processes easily using simple functions and with rxjs support. [github](https://github.com/ganeshkbhat/concurrency.js.extended) , [npm](https://www.npmjs.com/package/scale.concurrency)
+
+`npm install scale.concurrency --save`
+
+
+---
+
+
+#### <a name="jsparsers"></a>jsparsers
+
+Status: `[indevelopment (MVP)]`
+
+npm jsparsers module for file format to format convertors for ini, yaml, json, xml, html, css, less, sass. [github](https://github.com/ganeshkbhat/convertors) , [npm](https://www.npmjs.com/package/jsparsers)
+
+`npm install jsparsers --save`
+
 
 <!--
 
