@@ -16,7 +16,7 @@ Key projects being worked on along with their problem statements and status. [ga
 - [require-urls](#requireurls) - `Require` / `Import` Deno and GoLang style `remote urls`.
 - [loadbalancer](#loadbalancerjs) - threaded and clustered load balancer for nodejs with different forwarding algorithms and server request handling options
 - [fastprimenumbers](#fastprimenumbers), [fast-prime](#fastprime), [fast-prime-client](#fastprimeclient), [fasterprimes](#fasterprimes) - Fastest `Prime Number` Calculation (`checks` and `generation`) logic.
-- [hasher-apis](#hasherapis) - Simple implementation of `Crypto Module functions` to hash/ encrypt/ decrypt content and get SHA or other algorithm hashes of text or any data.
+- [hasher-apis](#hasherapis) - Simple implementation of `Crypto Module functions` to hash/ encrypt/ decrypt content and get SHA or other algorithm hashes of text or any data. Easily create public/ private keys, encrypt/decrypt files, and other commonly used hashing functions needed in your normal code. 
 
 ---
 
@@ -220,7 +220,7 @@ Get root folders of `git`, `svn`, `mercurial`, nodejs `node_modules` / `package.
 
 Status: `[production ready]`
 
-[hasher-apis](https://www.npmjs.com/package/hasher-apis) - Simple and flexible implementation Crypto Module functions to hash/ encrypt/ decrypt content and get SHA or other algorithm hashes of text or any data [https://github.com/ganeshkbhat/hasher-apis](https://github.com/ganeshkbhat/hasher-apis)
+[hasher-apis](https://www.npmjs.com/package/hasher-apis) - Simple and flexible implementation Crypto Module functions to hash/ encrypt/ decrypt content and get SHA or other algorithm hashes of text or any data. Easily create public/ private keys, encrypt/decrypt files, and other commonly used hashing functions needed in your normal code. [https://github.com/ganeshkbhat/hasher-apis](https://github.com/ganeshkbhat/hasher-apis)
 
 `npm install hasher-apis --save`
 
