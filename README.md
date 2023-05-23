@@ -30,7 +30,7 @@ Other projects and status. [ganeshkbhat](https://www.github.com/ganeshkbhat)
 - [queues.js](#queuesjs) - node package for top and bottom plus lifo/ fifo queues, stack, priority queues, double ended queues, circular queues, wait queues (TODO), and semaphore queues (TODO) implementation.
 - [extenders](#extenders) - node package for Array, Object, String, Decorator extention Utils like for Python and more for Node.js.
 - [mutables](#mutables) - Manage immutable stores with no jazz in a simple manner. Exploring simpler immutable stores architectures.
-- [fssys](#fssys): npm module to work with immutable stores. Manage immutable stores with no jazz in a simple manner. Exploring simpler immutable stores architectures
+- [fssys](#fssys): fssys is a npm module to read write folder/files, fs util functions, traverse files and folder using code, or cli, or use glob patterns. 
 - [store](#store): npm module to work with immutable stores. Manage immutable stores with no jazz in a simple manner. Exploring simpler immutable stores architectures.
 - [mod-pickle](#mod-pickle): npm mod-pickle module implements the python pickle-like binary protocols for serializing and de-serializing a javascript object structure as in python.
 - [ndarrays](#ndarrays): ndarrays offers numerical arrays which is a comprehensive mathematical functions, random number generators, linear algebra routines, Fourier transforms, and more like NumPy. The goal is to be as near as NumPy as possible.
