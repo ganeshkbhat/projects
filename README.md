@@ -43,7 +43,7 @@ Other projects and status. [ganeshkbhat](https://www.github.com/ganeshkbhat)
 
 #### <a name="cgijs"></a>cgijs
 
-Status: `[production ready] [indevelopment (new features)]`
+Status: `[production ready] [consideration (new features)]`
 
 [cgijs](https://www.github.com/cgi-js) - Run cgi / interpreted script files that supports command line execution, or connect to cgi / other server proxies, [git repo](https://github.com/cgi-js/cgi-js) , [npmjs cgijs](https://www.npmjs.com/package/cgijs)
 
@@ -59,7 +59,7 @@ Status: `[production ready] [indevelopment (new features)]`
 
 #### <a name="phpcgijs"></a>phpcgijs
 
-Status: `[production ready] [indevelopment (new features)]`
+Status: `[production ready] [consideration (new features)]`
 
 [phpcgijs](https://github.com/cgi-js/node-php-cgi) - Run php scripts like wordpress, drupal, etc with node and cgi counter parts, [git repo](https://github.com/cgi-js/node-php-cgi), [npmjs phpcgijs](https://www.npmjs.com/package/phpcgijs)
 
@@ -196,7 +196,7 @@ JS functions to `check all imports or required modules` and `check if` the file 
 
 #### <a name="getimported"></a>get-imported
 
-Status: `[production ready]`
+Status: `[production ready] [consideration (new features)]`
 
 [get-imported](https://www.npmjs.com/package/get-imported) -
 JS functions to `check all imports or required modules` and `check if` the file is a `ES Module` or a `CJS/ JS Module` or `Script` [https://github.com/ganeshkbhat/get-imports](https://github.com/ganeshkbhat/get-imports)
@@ -218,7 +218,7 @@ Get root folders of `git`, `svn`, `mercurial`, nodejs `node_modules` / `package.
 
 #### <a name="hasherapis"></a>hasher-apis
 
-Status: `[production ready]`
+Status: `[production ready] [consideration (new features)]`
 
 [hasher-apis](https://www.npmjs.com/package/hasher-apis) - Simple and flexible implementation Crypto Module functions to hash/ encrypt/ decrypt content and get SHA or other algorithm hashes of text or any data. Easily create public/ private keys, encrypt/decrypt files, and other commonly used hashing functions needed in your normal code. [https://github.com/ganeshkbhat/hasher-apis](https://github.com/ganeshkbhat/hasher-apis)
 
@@ -228,7 +228,7 @@ Status: `[production ready]`
 
 #### <a name="concurrencyjs"></a>concurrency.js
 
-Status: `[indevelopment (MVP)] [indevelopment (new features)] [consideration (new features)]`
+Status: `[production ready] [indevelopment (MVP)] [consideration (new features)]`
 
 [concurrency.js](https://www.npmjs.com/package/concurrency.js) - npm module to work with `concurrency - worker threads and worker processes` easily using simple functions and script files [https://github.com/ganeshkbhat/concurrency.js](https://github.com/ganeshkbhat/concurrency.js)
 
@@ -238,7 +238,7 @@ Status: `[indevelopment (MVP)] [indevelopment (new features)] [consideration (ne
 
 #### <a name="requestapis"></a>request-apis
 
-Status: `[indevelopment (MVP)]`
+Status: `[production ready] [indevelopment (MVP)] [consideration (new features)]`
 
 <!-- `[production ready]` -->
 
@@ -260,7 +260,7 @@ Status: `[production ready] [indevelopment (new features)] [consideration (new f
 
 #### <a name="extenders"></a>extenders
 
-Status: `[indevelopment (MVP)] [consideration (new features)]`
+Status: `[production ready] [consideration (new features)]`
 
 [extenders](https://www.npmjs.com/package/extenders) - node package for Array, Object, String, Decorator extention Utils like for Python and more for Node.js [https://github.com/ganeshkbhat/jsextenders](https://github.com/ganeshkbhat/jsextenders)
 
@@ -290,7 +290,7 @@ npm module to work with immutable stores. Manage immutable stores with no jazz i
 
 #### <a name="mod-pickle"></a>mod-pickle
 
-Status: `[indevelopment (MVP)]`
+Status: `[production ready] [indevelopment (MVP)] [consideration (new features)]`
 
 npm mod-pickle module implements the python pickle-like binary protocols for serializing and de-serializing a javascript object structure as in python. [github](https://github.com/ganeshkbhat/pickler) , [npm](https://www.npmjs.com/package/mod-pickle)
 
@@ -300,7 +300,7 @@ npm mod-pickle module implements the python pickle-like binary protocols for ser
 
 #### <a name="ndarrays"></a>ndarrays
 
-Status: `[indevelopment (MVP)]`
+Status: `[production ready] [indevelopment (MVP)] [consideration (new features)]`
 
 ndarrays offers numerical arrays which is a comprehensive mathematical functions, random number generators, linear algebra routines, Fourier transforms, and more like NumPy. The goal is to be as near as NumPy as possible. [github](https://github.com/ganeshkbhat/numericalarrays) , [npm](https://www.npmjs.com/package/ndarrays)
 
@@ -310,7 +310,7 @@ ndarrays offers numerical arrays which is a comprehensive mathematical functions
 
 #### <a name="express-noserve"></a>express-noserve
 
-Status: `[indevelopment (MVP)]`
+Status: `[production ready] [indevelopment (MVP)] [consideration (new features)]`
 
 npm module express-noserve allows you to access the express route fetch, access, and invoke applicable Layer Objects of Middlewares and Handler/s without having to listen to a Server. [github](https://github.com/ganeshkbhat/noserver-expressjs) , [npm](https://www.npmjs.com/package/express-noserve)
 
@@ -320,7 +320,7 @@ npm module express-noserve allows you to access the express route fetch, access,
 
 #### <a name="noserve"></a>noserve
 
-Status: `[indevelopment (MVP)]`
+Status: `[production ready] [indevelopment (MVP)] [consideration (new features)]`
 
 npm module express-noserve allows you to access the express route fetch, access, and invoke applicable Layer Objects of Middlewares and Handler/s without having to listen to a Server. [github](https://github.com/ganeshkbhat/noserver-expressjs) , [npm](https://www.npmjs.com/package/noserve)
 
@@ -340,7 +340,7 @@ npm module to work with concurrency.js - worker threads and worker processes eas
 
 #### <a name="jsparsers"></a>jsparsers
 
-Status: `[indevelopment (MVP)]`
+Status: `[production ready] [indevelopment (MVP)] [indevelopment (new features)]`
 
 npm jsparsers module for file format to format convertors for ini, yaml, json, xml, html, css, less, sass. [github](https://github.com/ganeshkbhat/convertors) , [npm](https://www.npmjs.com/package/jsparsers)
 
