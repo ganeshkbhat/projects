@@ -167,7 +167,7 @@ It is pretty fast based on the number of iterations needed. Performance time che
 
 Status: `[production ready]`
 
-[fast-prime](https://github.com/ganeshkbhat/fastprimenumbers/tree/main/nodejs) Fastest Prime Number Calculation (checks) logic for node and browser. Fastest Prime Number Calculation (checks) logic and This probably is the BEST solution in the internet as of today 11th March 2022. [https://github.com/ganeshkbhat/fastprimenumbers/tree/main/nodejs](https://github.com/ganeshkbhat/fastprimenumbers/tree/main/nodejs) , [npmjs]()
+[fast-prime](https://www.npmjs.com/package/fast-prime) Fastest Prime Number Calculation (checks) logic for node and browser. Fastest Prime Number Calculation (checks) logic and This probably is the BEST solution in the internet as of today 11th March 2022. [https://github.com/ganeshkbhat/fastprimenumbers/tree/main/nodejs](https://github.com/ganeshkbhat/fastprimenumbers/tree/main/nodejs) , [npmjs](https://www.npmjs.com/package/fast-prime)
 
 `npm install fast-prime --save`
 
@@ -177,7 +177,7 @@ Status: `[production ready]`
 
 Status: `[production ready]`
 
-[fast-prime-client](https://github.com/ganeshkbhat/fastprimenumbers/tree/main/javascript) Fastest Prime Number Calculation (checks) logic for browser. Fastest Prime Number Calculation (checks) logic and This probably is the BEST solution in the internet as of today 11th March 2022. [https://github.com/ganeshkbhat/fastprimenumbers/tree/main/javascript](https://github.com/ganeshkbhat/fastprimenumbers/tree/main/javascript) , [npmjs]()
+[fast-prime-client](https://www.npmjs.com/package/fast-prime-client) Fastest Prime Number Calculation (checks) logic for browser. Fastest Prime Number Calculation (checks) logic and This probably is the BEST solution in the internet as of today 11th March 2022. [https://github.com/ganeshkbhat/fastprimenumbers/tree/main/javascript](https://github.com/ganeshkbhat/fastprimenumbers/tree/main/javascript) , [npmjs](https://www.npmjs.com/package/fast-prime-client)
 
 `npm install fast-prime-client --save`
 
@@ -199,7 +199,7 @@ JS functions to `check all imports or required modules` and `check if` the file 
 Status: `[production ready] [consideration (new features)]`
 
 [get-imported](https://www.npmjs.com/package/get-imported) -
-JS functions to `check all imports or required modules` and `check if` the file is a `ES Module` or a `CJS/ JS Module` or `Script` [https://github.com/ganeshkbhat/get-imports](https://github.com/ganeshkbhat/get-imports) , [npmjs]()
+JS functions to `check all imports or required modules` and `check if` the file is a `ES Module` or a `CJS/ JS Module` or `Script` [https://github.com/ganeshkbhat/get-imports](https://github.com/ganeshkbhat/get-imports) , [npmjs](https://www.npmjs.com/package/get-imported)
 
 `npm install get-imported --save`
 
@@ -209,8 +209,8 @@ JS functions to `check all imports or required modules` and `check if` the file 
 
 Status: `[production ready] [consideration (new features)]`
 
-[root-dirs](https://github.com/ganeshkbhat/get-root) -
-Get root folders of `git`, `svn`, `mercurial`, nodejs `node_modules` / `package.json` / `package-lock.json`, and nodejs `.jscache` folder [https://github.com/ganeshkbhat/get-root](https://github.com/ganeshkbhat/get-root) , [npmjs]()
+[root-dirs](https://www.npmjs.com/package/get-root) -
+Get root folders of `git`, `svn`, `mercurial`, nodejs `node_modules` / `package.json` / `package-lock.json`, and nodejs `.jscache` folder [https://github.com/ganeshkbhat/get-root](https://github.com/ganeshkbhat/get-root) , [npmjs](https://www.npmjs.com/package/get-root)
 
 `npm install root-dirs --save`
 
@@ -220,7 +220,7 @@ Get root folders of `git`, `svn`, `mercurial`, nodejs `node_modules` / `package.
 
 Status: `[production ready] [consideration (new features)]`
 
-[hasher-apis](https://www.npmjs.com/package/hasher-apis) - Simple and flexible implementation Crypto Module functions to hash/ encrypt/ decrypt content and get SHA or other algorithm hashes of text or any data. Easily create public/ private keys, encrypt/decrypt files, and other commonly used hashing functions needed in your normal code. [https://github.com/ganeshkbhat/hasher-apis](https://github.com/ganeshkbhat/hasher-apis) , [npmjs]()
+[hasher-apis](https://www.npmjs.com/package/hasher-apis) - Simple and flexible implementation Crypto Module functions to hash/ encrypt/ decrypt content and get SHA or other algorithm hashes of text or any data. Easily create public/ private keys, encrypt/decrypt files, and other commonly used hashing functions needed in your normal code. [https://github.com/ganeshkbhat/hasher-apis](https://github.com/ganeshkbhat/hasher-apis) , [npmjs](https://www.npmjs.com/package/hasher-apis)
 
 `npm install hasher-apis --save`
 
@@ -230,7 +230,7 @@ Status: `[production ready] [consideration (new features)]`
 
 Status: `[production ready] [indevelopment (MVP)] [consideration (new features)]`
 
-[concurrency.js](https://www.npmjs.com/package/concurrency.js) - npm module to work with `concurrency - worker threads and worker processes` easily using simple functions and script files [https://github.com/ganeshkbhat/concurrency.js](https://github.com/ganeshkbhat/concurrency.js) , [npmjs]()
+[concurrency.js](https://www.npmjs.com/package/concurrency.js) - npm module to work with `concurrency - worker threads and worker processes` easily using simple functions and script files [https://github.com/ganeshkbhat/concurrency.js](https://github.com/ganeshkbhat/concurrency.js) , [npmjs](https://www.npmjs.com/package/concurrency.js)
 
 `npm install concurrency.js --save`
 
@@ -242,7 +242,7 @@ Status: `[production ready] [indevelopment (MVP)] [consideration (new features)]
 
 <!-- `[production ready]` -->
 
-[request-apis](https://www.npmjs.com/package/request-apis) - npm module for common request APIs and basic http requests utils [https://github.com/ganeshkbhat/request-apis](https://github.com/ganeshkbhat/request-apis) , [npmjs]()
+[request-apis](https://www.npmjs.com/package/request-apis) - npm module for common request APIs and basic http requests utils [https://github.com/ganeshkbhat/request-apis](https://github.com/ganeshkbhat/request-apis) , [npmjs](https://www.npmjs.com/package/request-apis)
 
 `npm install request-apis --save`
 
@@ -252,7 +252,7 @@ Status: `[production ready] [indevelopment (MVP)] [consideration (new features)]
 
 Status: `[production ready] [indevelopment (new features)] [consideration (new features)]`
 
-[ queues.js](https://www.npmjs.com/package/queues.js) - node package for top and bottom plus lifo/ fifo queues, stack, priority queues, double ended queues, circular queues (TODO), wait queues (TODO), and semaphore queues (TODO) implementation [https://github.com/ganeshkbhat/queues.js](https://github.com/ganeshkbhat/queues.js) , [npmjs]()
+[queues.js](https://www.npmjs.com/package/queues.js) - node package for top and bottom plus lifo/ fifo queues, stack, priority queues, double ended queues, circular queues (TODO), wait queues (TODO), and semaphore queues (TODO) implementation [https://github.com/ganeshkbhat/queues.js](https://github.com/ganeshkbhat/queues.js) , [npmjs](https://www.npmjs.com/package/queues.js)
 
 `npm install queue.js --save`
 
@@ -262,7 +262,7 @@ Status: `[production ready] [indevelopment (new features)] [consideration (new f
 
 Status: `[production ready] [consideration (new features)]`
 
-[extenders](https://www.npmjs.com/package/extenders) - node package for Array, Object, String, Decorator extention Utils like for Python and more for Node.js [https://github.com/ganeshkbhat/jsextenders](https://github.com/ganeshkbhat/jsextenders) , [npmjs]()
+[extenders](https://www.npmjs.com/package/extenders) - node package for Array, Object, String, Decorator extention Utils like for Python and more for Node.js [https://github.com/ganeshkbhat/jsextenders](https://github.com/ganeshkbhat/jsextenders) , [npmjs](https://www.npmjs.com/package/extenders)
 
 `npm install extenders --save`
 
@@ -272,7 +272,7 @@ Status: `[production ready] [consideration (new features)]`
 
 Status: `[indevelopment (MVP)]`
 
-[mutables](https://www.npmjs.com/package/mutables) - npm module to work with immutable stores. Manage immutable stores with no jazz in a simple manner. Exploring simpler immutable stores architectures [https://github.com/ganeshkbhat/store](https://github.com/ganeshkbhat/store) , [npmjs]()
+[mutables](https://www.npmjs.com/package/mutables) - npm module to work with immutable stores. Manage immutable stores with no jazz in a simple manner. Exploring simpler immutable stores architectures [https://github.com/ganeshkbhat/store](https://github.com/ganeshkbhat/store) , [npmjs](https://www.npmjs.com/package/mutables)
 
 `npm install mutables --save`
 
@@ -282,7 +282,7 @@ Status: `[indevelopment (MVP)]`
 
 Status: `[indevelopment (MVP)]`
 
-npm module to work with immutable stores. Manage immutable stores with no jazz in a simple manner. Exploring simpler immutable stores architectures. [github](https://github.com/ganeshkbhat/store) , [npmjs](https://www.npmjs.com/package/managers)
+npm module to work with immutable stores. Manage immutable stores with no jazz in a simple manner. Exploring simpler immutable stores architectures. [https://github.com/ganeshkbhat/store](https://github.com/ganeshkbhat/store) , [npmjs](https://www.npmjs.com/package/managers)
 
 `npm install manager --save`
 
@@ -322,7 +322,7 @@ npm module express-noserve allows you to access the express route fetch, access,
 
 Status: `[production ready] [indevelopment (MVP)] [consideration (new features)]`
 
-npm module express-noserve allows you to access the express route fetch, access, and invoke applicable Layer Objects of Middlewares and Handler/s without having to listen to a Server. [github](https://github.com/ganeshkbhat/noserver-expressjs) , [npmjs](https://www.npmjs.com/package/noserve)
+npm module express-noserve allows you to access the express route fetch, access, and invoke applicable Layer Objects of Middlewares and Handler/s without having to listen to a Server. [https://github.com/ganeshkbhat/noserver-expressjs](https://github.com/ganeshkbhat/noserver-expressjs) , [npmjs](https://www.npmjs.com/package/noserve)
 
 `npm install noserve --save`
 
@@ -332,7 +332,7 @@ npm module express-noserve allows you to access the express route fetch, access,
 
 Status: `[indevelopment (MVP)]`
 
-npm module to work with concurrency.js - worker threads and worker processes easily using simple functions and with rxjs support. [github](https://github.com/ganeshkbhat/concurrency.js.extended) , [npmjs](https://www.npmjs.com/package/scale.concurrency)
+npm module to work with concurrency.js - worker threads and worker processes easily using simple functions and with rxjs support. [https://github.com/ganeshkbhat/concurrency.js.extended](https://github.com/ganeshkbhat/concurrency.js.extended) , [npmjs](https://www.npmjs.com/package/scale.concurrency)
 
 `npm install scale.concurrency --save`
 
@@ -342,7 +342,7 @@ npm module to work with concurrency.js - worker threads and worker processes eas
 
 Status: `[production ready] [indevelopment (MVP)] [indevelopment (new features)]`
 
-npm jsparsers module for file format to format convertors for ini, yaml, json, xml, html, css, less, sass. [github](https://github.com/ganeshkbhat/convertors) , [npmjs](https://www.npmjs.com/package/jsparsers)
+npm jsparsers module for file format to format convertors for ini, yaml, json, xml, html, css, less, sass. [https://github.com/ganeshkbhat/convertors](https://github.com/ganeshkbhat/convertors) , [npmjs](https://www.npmjs.com/package/jsparsers)
 
 `npm install jsparsers --save`
 
