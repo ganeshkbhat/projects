@@ -45,7 +45,7 @@ Other projects and status. [ganeshkbhat](https://www.github.com/ganeshkbhat)
 
 Status: `[production ready] [consideration (new features)]`
 
-[cgijs](https://www.github.com/cgi-js) - Run cgi / interpreted script files that supports command line execution, or connect to cgi / other server proxies, [git repo](https://github.com/cgi-js/cgi-js) , [npmjs cgijs](https://www.npmjs.com/package/cgijs)
+[cgijs](https://www.github.com/cgi-js) - Run cgi / interpreted script files that supports command line execution, or connect to cgi / other server proxies, [https://github.com/cgi-js/cgi-js](https://github.com/cgi-js/cgi-js)] , [npmjs cgijs](https://www.npmjs.com/package/cgijs)
 
 `CGIJS` is a library to run any CGI mode / Interpreted language script files, or connect to any web application server proxies, or manage processes in the system. `CGIJS` library:
 
@@ -61,7 +61,7 @@ Status: `[production ready] [consideration (new features)]`
 
 Status: `[production ready] [consideration (new features)]`
 
-[phpcgijs](https://github.com/cgi-js/node-php-cgi) - Run php scripts like wordpress, drupal, etc with node and cgi counter parts, [git repo](https://github.com/cgi-js/node-php-cgi), [npmjs phpcgijs](https://www.npmjs.com/package/phpcgijs)
+[phpcgijs](https://github.com/cgi-js/node-php-cgi) - Run php scripts like wordpress, drupal, etc with node and cgi counter parts, [https://github.com/cgi-js/node-php-cgi](https://github.com/cgi-js/node-php-cgi)], [npmjs phpcgijs](https://www.npmjs.com/package/phpcgijs)
 
 Run php scripts like wordpress, drupal, etc with node and cgi counter parts using `phpcgijs`. The script will pipe all files that end in the .php extension through the php parser. All other files will be served as static content. Basic permalinks are supported but the support for them can probably be improved.
 
@@ -75,7 +75,7 @@ Includes `CGIJS` Library as a dependancy.
 
 Status: `[indevelopment (MVP)]`
 
-[desktop-cgi](https://www.github.com/desktop-cgi) - Desktop apps using DesktopCGI, CGIJS, PHPCGIJS, [git repo https://www.github.com/desktop-cgi](https://www.github.com/desktop-cgi/desktop-cgi)
+[desktop-cgi](https://www.github.com/desktop-cgi) - Desktop apps using DesktopCGI, CGIJS, PHPCGIJS, [https://www.github.com/desktop-cgi](https://www.github.com/desktop-cgi/desktop-cgi)
 
 Create Desktop executable app using CGI files, embedded webserver CGI apps (`PHP`, `Ruby`, `Python`, `Perl`, `CGI`, `JSP`, `ASPX`, `Other` Interpreted Languages), or remote proxies.
 
@@ -105,7 +105,7 @@ Status: `[indevelopment (MVP)]`
 
 Status: `[production ready] [indevelopment (new features)]`
 
-[loadbalancer](https://www.github.com/ganeshkbhat/loadbalancer) - [git repo](https://www.github.com/ganeshkbhat/loadbalancer) , [npmjs loadbalancer](https://www.npmjs.com/package/loadbalancerjs)
+[loadbalancer](https://www.github.com/ganeshkbhat/loadbalancer) - [https://www.github.com/ganeshkbhat/loadbalancer](https://www.github.com/ganeshkbhat/loadbalancer) , [npmjs](https://www.npmjs.com/package/loadbalancerjs)
 
 `npm install loadbalancerjs --save`
 
@@ -115,7 +115,7 @@ Status: `[production ready] [indevelopment (new features)]`
 
 Status: `[production ready] [consideration (new features)]`
 
-[traverse-fs](https://github.com/traverse-fs/glob-traverse-fs) - Traversing file system recursively, [git repo](https://github.com/traverse-fs/glob-traverse-fs), [npmjs traverse-fs](https://www.npmjs.com/package/traverse-fs)
+[traverse-fs](https://github.com/traverse-fs/glob-traverse-fs) - Traversing file system recursively, [https://github.com/traverse-fs/glob-traverse-fs](https://github.com/traverse-fs/glob-traverse-fs), [npmjs](https://www.npmjs.com/package/traverse-fs)
 
 `traverse-fs` is a npm module to traverse files and folder using code, or cli, or use glob patterns
 
@@ -127,7 +127,7 @@ Status: `[production ready] [consideration (new features)]`
 
 Status: `[production ready] [consideration (new features)]`
 
-[fssys](https://github.com/traverse-fs/fssys) - Traversing file system recursively, [git repo](https://github.com/traverse-fs/glob-traverse-fs), [npmjs fssys](https://www.npmjs.com/package/fssys)
+[fssys](https://github.com/traverse-fs/fssys) - Traversing file system recursively, [https://github.com/traverse-fs/glob-traverse-fs](https://github.com/traverse-fs/glob-traverse-fs), [npmjs](https://www.npmjs.com/package/fssys)
 
 `fssys` is a npm module to read write folder/files, fs util functions, traverse files and folder using code, or cli, or use glob patterns
 
@@ -139,7 +139,7 @@ Status: `[production ready] [consideration (new features)]`
 
 Status: `[indevelopment (MVP)]`
 
-[require-urls](https://github.com/ganeshkbhat/require-urls) - Require / Import Deno and GoLang style remote urls, [git repo](https://github.com/ganeshkbhat/require-urls), [npmjs require-urls](https://www.npmjs.com/package/require-urls)
+[require-urls](https://github.com/ganeshkbhat/require-urls) - Require / Import Deno and GoLang style remote urls, [https://github.com/ganeshkbhat/require-urls](https://github.com/ganeshkbhat/require-urls), [npmjs](https://www.npmjs.com/package/require-urls)
 
 `Deno and GoLang Mode` in `commonjs import` (`require`) and `ES import` syntax using `require-urls`: Replace nodejs require function with requireurls function or use loader.mjs replacing import functionality that can fetches remote urls.
 
@@ -151,7 +151,7 @@ Status: `[indevelopment (MVP)]`
 
 Status: `[production ready]`
 
-[fastprimenumbers](https://github.com/ganeshkbhat/fastprimenumbers) - Probably the fastest prime number calculations, [git repo](https://github.com/ganeshkbhat/fastprimenumbers), [npmjs fast-prime](https://www.npmjs.com/package/fast-prime), [pypi fastprime](https://pypi.org/project/fasterprimes/)
+[fastprimenumbers](https://github.com/ganeshkbhat/fastprimenumbers) - Probably the fastest prime number calculations, [https://github.com/ganeshkbhat/fastprimenumbers](https://github.com/ganeshkbhat/fastprimenumbers), [npmjs](https://www.npmjs.com/package/fast-prime), [pypi fastprime](https://pypi.org/project/fasterprimes/)
 
 `Fastest Prime Number Calculation (checks) logic` and This probably is the BEST solution in the internet as of today 11th March 2022. This same code has been applied in many languages (and can be applied to) like `Python`, `Java`, `PHP`, `Node.js`, `Javascript`, `typescript` and can be applied to `C`, `Go` Lang, `C++`, `.NET`, `Rust`, etc with the same logic and have performance benefits.
 
@@ -167,7 +167,7 @@ It is pretty fast based on the number of iterations needed. Performance time che
 
 Status: `[production ready]`
 
-[fast-prime](https://github.com/ganeshkbhat/fastprimenumbers/tree/main/nodejs) Fastest Prime Number Calculation (checks) logic for node and browser. Fastest Prime Number Calculation (checks) logic and This probably is the BEST solution in the internet as of today 11th March 2022. [https://github.com/ganeshkbhat/fastprimenumbers/tree/main/nodejs](https://github.com/ganeshkbhat/fastprimenumbers/tree/main/nodejs)
+[fast-prime](https://github.com/ganeshkbhat/fastprimenumbers/tree/main/nodejs) Fastest Prime Number Calculation (checks) logic for node and browser. Fastest Prime Number Calculation (checks) logic and This probably is the BEST solution in the internet as of today 11th March 2022. [https://github.com/ganeshkbhat/fastprimenumbers/tree/main/nodejs](https://github.com/ganeshkbhat/fastprimenumbers/tree/main/nodejs) , [npmjs]()
 
 `npm install fast-prime --save`
 
@@ -177,7 +177,7 @@ Status: `[production ready]`
 
 Status: `[production ready]`
 
-[fast-prime-client](https://github.com/ganeshkbhat/fastprimenumbers/tree/main/javascript) Fastest Prime Number Calculation (checks) logic for browser. Fastest Prime Number Calculation (checks) logic and This probably is the BEST solution in the internet as of today 11th March 2022. [https://github.com/ganeshkbhat/fastprimenumbers/tree/main/javascript](https://github.com/ganeshkbhat/fastprimenumbers/tree/main/javascript)
+[fast-prime-client](https://github.com/ganeshkbhat/fastprimenumbers/tree/main/javascript) Fastest Prime Number Calculation (checks) logic for browser. Fastest Prime Number Calculation (checks) logic and This probably is the BEST solution in the internet as of today 11th March 2022. [https://github.com/ganeshkbhat/fastprimenumbers/tree/main/javascript](https://github.com/ganeshkbhat/fastprimenumbers/tree/main/javascript) , [npmjs]()
 
 `npm install fast-prime-client --save`
 
@@ -188,7 +188,7 @@ Status: `[production ready]`
 Status: `[production ready] [consideration (new features)]`
 
 [check-esm](https://www.npmjs.com/package/check-esm) -
-JS functions to `check all imports or required modules` and `check if` the file is a `ES Module` or a `CJS/ JS Module` or `Script` [https://github.com/ganeshkbhat/get-isesm](https://github.com/ganeshkbhat/get-isesm)
+JS functions to `check all imports or required modules` and `check if` the file is a `ES Module` or a `CJS/ JS Module` or `Script` [https://github.com/ganeshkbhat/get-isesm](https://github.com/ganeshkbhat/get-isesm) [npmjs](https://www.npmjs.com/package/check-esm)
 
 `npm install check-esm --save`
 
@@ -199,7 +199,7 @@ JS functions to `check all imports or required modules` and `check if` the file 
 Status: `[production ready] [consideration (new features)]`
 
 [get-imported](https://www.npmjs.com/package/get-imported) -
-JS functions to `check all imports or required modules` and `check if` the file is a `ES Module` or a `CJS/ JS Module` or `Script` [https://github.com/ganeshkbhat/get-imports](https://github.com/ganeshkbhat/get-imports)
+JS functions to `check all imports or required modules` and `check if` the file is a `ES Module` or a `CJS/ JS Module` or `Script` [https://github.com/ganeshkbhat/get-imports](https://github.com/ganeshkbhat/get-imports) , [npmjs]()
 
 `npm install get-imported --save`
 
@@ -210,7 +210,7 @@ JS functions to `check all imports or required modules` and `check if` the file 
 Status: `[production ready] [consideration (new features)]`
 
 [root-dirs](https://github.com/ganeshkbhat/get-root) -
-Get root folders of `git`, `svn`, `mercurial`, nodejs `node_modules` / `package.json` / `package-lock.json`, and nodejs `.jscache` folder [https://github.com/ganeshkbhat/get-root](https://github.com/ganeshkbhat/get-root)
+Get root folders of `git`, `svn`, `mercurial`, nodejs `node_modules` / `package.json` / `package-lock.json`, and nodejs `.jscache` folder [https://github.com/ganeshkbhat/get-root](https://github.com/ganeshkbhat/get-root) , [npmjs]()
 
 `npm install root-dirs --save`
 
@@ -220,7 +220,7 @@ Get root folders of `git`, `svn`, `mercurial`, nodejs `node_modules` / `package.
 
 Status: `[production ready] [consideration (new features)]`
 
-[hasher-apis](https://www.npmjs.com/package/hasher-apis) - Simple and flexible implementation Crypto Module functions to hash/ encrypt/ decrypt content and get SHA or other algorithm hashes of text or any data. Easily create public/ private keys, encrypt/decrypt files, and other commonly used hashing functions needed in your normal code. [https://github.com/ganeshkbhat/hasher-apis](https://github.com/ganeshkbhat/hasher-apis)
+[hasher-apis](https://www.npmjs.com/package/hasher-apis) - Simple and flexible implementation Crypto Module functions to hash/ encrypt/ decrypt content and get SHA or other algorithm hashes of text or any data. Easily create public/ private keys, encrypt/decrypt files, and other commonly used hashing functions needed in your normal code. [https://github.com/ganeshkbhat/hasher-apis](https://github.com/ganeshkbhat/hasher-apis) , [npmjs]()
 
 `npm install hasher-apis --save`
 
@@ -230,7 +230,7 @@ Status: `[production ready] [consideration (new features)]`
 
 Status: `[production ready] [indevelopment (MVP)] [consideration (new features)]`
 
-[concurrency.js](https://www.npmjs.com/package/concurrency.js) - npm module to work with `concurrency - worker threads and worker processes` easily using simple functions and script files [https://github.com/ganeshkbhat/concurrency.js](https://github.com/ganeshkbhat/concurrency.js)
+[concurrency.js](https://www.npmjs.com/package/concurrency.js) - npm module to work with `concurrency - worker threads and worker processes` easily using simple functions and script files [https://github.com/ganeshkbhat/concurrency.js](https://github.com/ganeshkbhat/concurrency.js) , [npmjs]()
 
 `npm install concurrency.js --save`
 
@@ -242,7 +242,7 @@ Status: `[production ready] [indevelopment (MVP)] [consideration (new features)]
 
 <!-- `[production ready]` -->
 
-[request-apis](https://www.npmjs.com/package/request-apis) - npm module for common request APIs and basic http requests utils [https://github.com/ganeshkbhat/request-apis](https://github.com/ganeshkbhat/request-apis)
+[request-apis](https://www.npmjs.com/package/request-apis) - npm module for common request APIs and basic http requests utils [https://github.com/ganeshkbhat/request-apis](https://github.com/ganeshkbhat/request-apis) , [npmjs]()
 
 `npm install request-apis --save`
 
@@ -252,7 +252,7 @@ Status: `[production ready] [indevelopment (MVP)] [consideration (new features)]
 
 Status: `[production ready] [indevelopment (new features)] [consideration (new features)]`
 
-[ queues.js](https://www.npmjs.com/package/queues.js) - node package for top and bottom plus lifo/ fifo queues, stack, priority queues, double ended queues, circular queues (TODO), wait queues (TODO), and semaphore queues (TODO) implementation [https://github.com/ganeshkbhat/queues.js](https://github.com/ganeshkbhat/queues.js)
+[ queues.js](https://www.npmjs.com/package/queues.js) - node package for top and bottom plus lifo/ fifo queues, stack, priority queues, double ended queues, circular queues (TODO), wait queues (TODO), and semaphore queues (TODO) implementation [https://github.com/ganeshkbhat/queues.js](https://github.com/ganeshkbhat/queues.js) , [npmjs]()
 
 `npm install queue.js --save`
 
@@ -262,7 +262,7 @@ Status: `[production ready] [indevelopment (new features)] [consideration (new f
 
 Status: `[production ready] [consideration (new features)]`
 
-[extenders](https://www.npmjs.com/package/extenders) - node package for Array, Object, String, Decorator extention Utils like for Python and more for Node.js [https://github.com/ganeshkbhat/jsextenders](https://github.com/ganeshkbhat/jsextenders)
+[extenders](https://www.npmjs.com/package/extenders) - node package for Array, Object, String, Decorator extention Utils like for Python and more for Node.js [https://github.com/ganeshkbhat/jsextenders](https://github.com/ganeshkbhat/jsextenders) , [npmjs]()
 
 `npm install extenders --save`
 
@@ -272,7 +272,7 @@ Status: `[production ready] [consideration (new features)]`
 
 Status: `[indevelopment (MVP)]`
 
-[mutables](https://www.npmjs.com/package/mutables) - npm module to work with immutable stores. Manage immutable stores with no jazz in a simple manner. Exploring simpler immutable stores architectures [https://github.com/ganeshkbhat/store](https://github.com/ganeshkbhat/store)
+[mutables](https://www.npmjs.com/package/mutables) - npm module to work with immutable stores. Manage immutable stores with no jazz in a simple manner. Exploring simpler immutable stores architectures [https://github.com/ganeshkbhat/store](https://github.com/ganeshkbhat/store) , [npmjs]()
 
 `npm install mutables --save`
 
@@ -282,7 +282,7 @@ Status: `[indevelopment (MVP)]`
 
 Status: `[indevelopment (MVP)]`
 
-npm module to work with immutable stores. Manage immutable stores with no jazz in a simple manner. Exploring simpler immutable stores architectures. [github](https://github.com/ganeshkbhat/store) , [npm](https://www.npmjs.com/package/managers)
+npm module to work with immutable stores. Manage immutable stores with no jazz in a simple manner. Exploring simpler immutable stores architectures. [github](https://github.com/ganeshkbhat/store) , [npmjs](https://www.npmjs.com/package/managers)
 
 `npm install manager --save`
 
@@ -292,7 +292,7 @@ npm module to work with immutable stores. Manage immutable stores with no jazz i
 
 Status: `[production ready] [indevelopment (MVP)] [consideration (new features)]`
 
-npm mod-pickle module implements the python pickle-like binary protocols for serializing and de-serializing a javascript object structure as in python. [github](https://github.com/ganeshkbhat/pickler) , [npm](https://www.npmjs.com/package/mod-pickle)
+npm mod-pickle module implements the python pickle-like binary protocols for serializing and de-serializing a javascript object structure as in python. [github](https://github.com/ganeshkbhat/pickler) , [npmjs](https://www.npmjs.com/package/mod-pickle)
 
 `npm install mod-pickle --save`
 
@@ -302,7 +302,7 @@ npm mod-pickle module implements the python pickle-like binary protocols for ser
 
 Status: `[production ready] [indevelopment (MVP)] [consideration (new features)]`
 
-ndarrays offers numerical arrays which is a comprehensive mathematical functions, random number generators, linear algebra routines, Fourier transforms, and more like NumPy. The goal is to be as near as NumPy as possible. [github](https://github.com/ganeshkbhat/numericalarrays) , [npm](https://www.npmjs.com/package/ndarrays)
+ndarrays offers numerical arrays which is a comprehensive mathematical functions, random number generators, linear algebra routines, Fourier transforms, and more like NumPy. The goal is to be as near as NumPy as possible. [https://github.com/ganeshkbhat/numericalarrays](https://github.com/ganeshkbhat/numericalarrays) , [npmjs](https://www.npmjs.com/package/ndarrays)
 
 `npm install ndarrays --save`
 
@@ -312,7 +312,7 @@ ndarrays offers numerical arrays which is a comprehensive mathematical functions
 
 Status: `[production ready] [indevelopment (MVP)] [consideration (new features)]`
 
-npm module express-noserve allows you to access the express route fetch, access, and invoke applicable Layer Objects of Middlewares and Handler/s without having to listen to a Server. [github](https://github.com/ganeshkbhat/noserver-expressjs) , [npm](https://www.npmjs.com/package/express-noserve)
+npm module express-noserve allows you to access the express route fetch, access, and invoke applicable Layer Objects of Middlewares and Handler/s without having to listen to a Server. [https://github.com/ganeshkbhat/noserver-expressjs](https://github.com/ganeshkbhat/noserver-expressjs) , [npmjs](https://www.npmjs.com/package/express-noserve)
 
 `npm install express-noserve --save`
 
@@ -322,7 +322,7 @@ npm module express-noserve allows you to access the express route fetch, access,
 
 Status: `[production ready] [indevelopment (MVP)] [consideration (new features)]`
 
-npm module express-noserve allows you to access the express route fetch, access, and invoke applicable Layer Objects of Middlewares and Handler/s without having to listen to a Server. [github](https://github.com/ganeshkbhat/noserver-expressjs) , [npm](https://www.npmjs.com/package/noserve)
+npm module express-noserve allows you to access the express route fetch, access, and invoke applicable Layer Objects of Middlewares and Handler/s without having to listen to a Server. [github](https://github.com/ganeshkbhat/noserver-expressjs) , [npmjs](https://www.npmjs.com/package/noserve)
 
 `npm install noserve --save`
 
@@ -332,7 +332,7 @@ npm module express-noserve allows you to access the express route fetch, access,
 
 Status: `[indevelopment (MVP)]`
 
-npm module to work with concurrency.js - worker threads and worker processes easily using simple functions and with rxjs support. [github](https://github.com/ganeshkbhat/concurrency.js.extended) , [npm](https://www.npmjs.com/package/scale.concurrency)
+npm module to work with concurrency.js - worker threads and worker processes easily using simple functions and with rxjs support. [github](https://github.com/ganeshkbhat/concurrency.js.extended) , [npmjs](https://www.npmjs.com/package/scale.concurrency)
 
 `npm install scale.concurrency --save`
 
@@ -342,7 +342,7 @@ npm module to work with concurrency.js - worker threads and worker processes eas
 
 Status: `[production ready] [indevelopment (MVP)] [indevelopment (new features)]`
 
-npm jsparsers module for file format to format convertors for ini, yaml, json, xml, html, css, less, sass. [github](https://github.com/ganeshkbhat/convertors) , [npm](https://www.npmjs.com/package/jsparsers)
+npm jsparsers module for file format to format convertors for ini, yaml, json, xml, html, css, less, sass. [github](https://github.com/ganeshkbhat/convertors) , [npmjs](https://www.npmjs.com/package/jsparsers)
 
 `npm install jsparsers --save`
 
