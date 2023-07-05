@@ -38,7 +38,7 @@ Other projects and status. [ganeshkbhat](https://www.github.com/ganeshkbhat)
 - [express-noserve](#express-noserve): npm module express-noserve allows you to access the express route fetch, access, and invoke applicable Layer Objects of Middlewares and Handler/s without having to listen to a Server.
 - [noserve](#noserve): npm module express-noserve allows you to access the express route fetch, access, and invoke applicable Layer Objects of Middlewares and Handler/s without having to listen to a Server.
 - [scale.concurrency](#scale.concurrency) - npm module to work with concurrency.js - worker threads and worker processes easily using simple functions and with rxjs support.
-- [jsparsers](#jsparsers) - npm jsparsers module for file format to format convertors for ini, yaml, json, xml, html, css, less, sass.
+- [jsparsers](#jsparsers) - npm jsparsers module for file format to format convertors for `ini`, `yaml`, `json`, `xml`, `html`, `css`, `less`, `sass`.
 
 ---
 
