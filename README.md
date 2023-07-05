@@ -17,6 +17,7 @@ Key projects being worked on along with their problem statements and status. [ga
 - [loadbalancer](#loadbalancerjs) - threaded and clustered load balancer for nodejs with different forwarding algorithms and server request handling options
 - [fastprimenumbers](#fastprimenumbers), [fast-prime](#fastprime), [fast-prime-client](#fastprimeclient), [fasterprimes](#fasterprimes) - Fastest `Prime Number` Calculation (`checks` and `generation`) logic.
 - [hasher-apis](#hasherapis) - Simple implementation of `Crypto Module functions` to hash/ encrypt/ decrypt content and get SHA or other algorithm hashes of text or any data. Easily create public/ private keys, encrypt/decrypt files, and other commonly used hashing functions needed in your normal code.
+- [bridge-wasm](#bridge-wasm) language interpretors for `php`, `perl`, `python`, `micropython`, `cpython`, `ruby`, `julia`, `cpp`, `golang`, `ocaml`, `lua`, `napi`, `wasm-run`, `r-lang`, `openssl`, and `other c` libraries. 
 
 ---
 
@@ -80,6 +81,14 @@ Status: `[indevelopment (MVP)]`
 Create Desktop executable app using CGI files, embedded webserver CGI apps (`PHP`, `Ruby`, `Python`, `Perl`, `CGI`, `JSP`, `ASPX`, `Other` Interpreted Languages), or remote proxies.
 
 `Desktop-CGI` is a desktop executable app that can be created from any CGI files or CGI web apps that can be served from an file, an embedded web server using proxy, or an remote proxy web server. It supports embedding and managing embeddable databases and executables. It supports all major Operating systems supported by electron like Windows, Linux, and MacOS supported by Electron.
+
+---
+
+#### <a name="bridge-wasm"></a>bridge-wasm
+
+Status: `[indevelopment (MVP)]`
+
+[bridge-wasm](https://www.github.com/desktop-cgi/bridge-wasm) - wasm bridges for language interpretors like `php`, `perl`, `python`, `micropython`, `cpython`, `ruby`, `julia`, `cpp`, `golang`, `ocaml`, `lua`, `napi`, `wasm-run`, `r-lang`, `openssl`, important `c libraries`, and other important libraries [https://www.github.com/desktop-cgi/bridge-wasm)](https://www.github.com/desktop-cgi/bridge-wasm)
 
 ---
 
