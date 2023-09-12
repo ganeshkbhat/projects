@@ -92,21 +92,36 @@ Status: `[indevelopment (MVP)]`
 
 `npm install bridge-wasm --save`
 
-`php` - [](https://www.npmjs.com/package/), 
-`perl` - [](https://www.npmjs.com/package/), 
-`python` - [](https://www.npmjs.com/package/), 
-`micropython` - [](https://www.npmjs.com/package/), 
-`cpython` - [](https://www.npmjs.com/package/), 
-`ruby` - [](https://www.npmjs.com/package/), 
-`julia` - [](https://www.npmjs.com/package/), 
-`cpp` - [](https://www.npmjs.com/package/), 
-`golang` - [](https://www.npmjs.com/package/), 
-`ocaml` - [](https://www.npmjs.com/package/), 
-`lua` - [](https://www.npmjs.com/package/), 
-`napi` - [](https://www.npmjs.com/package/), 
-`wasm-run` - [](https://www.npmjs.com/package/), 
-`r-lang` - [](https://www.npmjs.com/package/), 
-`openssl` - [](https://www.npmjs.com/package/)
+`php` - [bridge-php](https://www.npmjs.com/package/), 
+
+`perl` - [bridge-perl](https://www.npmjs.com/package/), 
+
+`python` - [bridge-python](https://www.npmjs.com/package/), 
+
+`micropython` - [bridge-micropython](https://www.npmjs.com/package/), 
+
+`cpython` - [bridge-cpython](https://www.npmjs.com/package/), 
+
+`ruby` - [bridge-ruby](https://www.npmjs.com/package/), 
+
+`julia` - [bridge-julia](https://www.npmjs.com/package/), 
+
+`cpp` - [bridge-cpp](https://www.npmjs.com/package/), 
+
+`golang` - [bridge-golang](https://www.npmjs.com/package/), 
+
+`ocaml` - [bridge-ocaml](https://www.npmjs.com/package/), 
+
+`lua` - [bridge-lua](https://www.npmjs.com/package/), 
+
+`napi` - [bridge-napi](https://www.npmjs.com/package/), 
+
+`wasm-run` - [bridge-wasm-run](https://www.npmjs.com/package/), 
+
+`r-lang` - [bridge-rlang](https://www.npmjs.com/package/), 
+
+`openssl` - [bridge-openssl](https://www.npmjs.com/package/)
+
 
 ---
 
