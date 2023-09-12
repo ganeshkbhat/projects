@@ -92,21 +92,21 @@ Status: `[indevelopment (MVP)]`
 
 `npm install bridge-wasm --save`
 
-`php`, 
-`perl`, 
-`python`, 
-`micropython`, 
-`cpython`, 
-`ruby`, 
-`julia`, 
-`cpp`, 
-`golang`, 
-`ocaml`, 
-`lua`, 
-`napi`, 
-`wasm-run`, 
-`r-lang`, 
-`openssl`
+`php` - [](https://www.npmjs.com/package/), 
+`perl` - [](https://www.npmjs.com/package/), 
+`python` - [](https://www.npmjs.com/package/), 
+`micropython` - [](https://www.npmjs.com/package/), 
+`cpython` - [](https://www.npmjs.com/package/), 
+`ruby` - [](https://www.npmjs.com/package/), 
+`julia` - [](https://www.npmjs.com/package/), 
+`cpp` - [](https://www.npmjs.com/package/), 
+`golang` - [](https://www.npmjs.com/package/), 
+`ocaml` - [](https://www.npmjs.com/package/), 
+`lua` - [](https://www.npmjs.com/package/), 
+`napi` - [](https://www.npmjs.com/package/), 
+`wasm-run` - [](https://www.npmjs.com/package/), 
+`r-lang` - [](https://www.npmjs.com/package/), 
+`openssl` - [](https://www.npmjs.com/package/)
 
 ---
 
