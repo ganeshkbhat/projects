@@ -92,6 +92,22 @@ Status: `[indevelopment (MVP)]`
 
 `npm install bridge-wasm --save`
 
+`php`, 
+`perl`, 
+`python`, 
+`micropython`, 
+`cpython`, 
+`ruby`, 
+`julia`, 
+`cpp`, 
+`golang`, 
+`ocaml`, 
+`lua`, 
+`napi`, 
+`wasm-run`, 
+`r-lang`, 
+`openssl`
+
 ---
 
 #### <a name="taskcontrols"></a>taskcontrols
