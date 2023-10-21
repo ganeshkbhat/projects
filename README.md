@@ -10,35 +10,35 @@ Ganesh is an `Accountable`, `Responsible`, and `Ethical` programmer. Learnings a
 
 Key projects being worked on along with their problem statements and status. [ganeshkbhat](https://www.github.com/ganeshkbhat)
 
-- [cgijs](#cgijs), [phpcgijs](#phpcgijs) - CGIJS is a library to `run any` CGI mode / `Interpreted language script files`, or connect to any web application server proxies, or manage processes in the system.
-- [desktop-cgi](#desktopcgi) - Create `Desktop executable app` using interpreted languages like `PHP`, `Ruby`, `Python`, `Perl`, `CGI`, `JSP`, `ASPX`, `Other` Interpreted Languages).
-- [taskcontrols](#taskcontrols) - `Workflow Automation Library` with support for Concurrent, or Event based processes/activities in Local/Network Automation Tasks.
-- [require-urls](#requireurls) - `Require` / `Import` Deno and GoLang style `remote urls`.
-- [loadbalancer](#loadbalancerjs) - threaded and clustered load balancer for nodejs with different forwarding algorithms and server request handling options
-- [fastprimenumbers](#fastprimenumbers), [fast-prime](#fastprime), [fast-prime-client](#fastprimeclient), [fasterprimes](#fasterprimes) - Fastest `Prime Number` Calculation (`checks` and `generation`) logic.
-- [hasher-apis](#hasherapis) - Simple implementation of `Crypto Module functions` to hash/ encrypt/ decrypt content and get SHA or other algorithm hashes of text or any data. Easily create public/ private keys, encrypt/decrypt files, and other commonly used hashing functions needed in your normal code.
-- [bridge-wasm](#bridge-wasm) language interpretors for `php`, `perl`, `python`, `micropython`, `cpython`, `ruby`, `julia`, `cpp`, `golang`, `ocaml`, `lua`, `napi`, `wasm-run`, `r-lang`, `openssl`, and `other c` libraries. 
+1. [cgijs](#cgijs), [phpcgijs](#phpcgijs) - CGIJS is a library to `run any` CGI mode / `Interpreted language script files`, or connect to any web application server proxies, or manage processes in the system.
+1. [desktop-cgi](#desktopcgi) - Create `Desktop executable app` using interpreted languages like `PHP`, `Ruby`, `Python`, `Perl`, `CGI`, `JSP`, `ASPX`, `Other` Interpreted Languages).
+1. [taskcontrols](#taskcontrols) - `Workflow Automation Library` with support for Concurrent, or Event based processes/activities in Local/Network Automation Tasks.
+1. [require-urls](#requireurls) - `Require` / `Import` Deno and GoLang style `remote urls`.
+1. [loadbalancer](#loadbalancerjs) - threaded and clustered load balancer for nodejs with different forwarding algorithms and server request handling options
+1. [fastprimenumbers](#fastprimenumbers), [fast-prime](#fastprime), [fast-prime-client](#fastprimeclient), [fasterprimes](#fasterprimes) - Fastest `Prime Number` Calculation (`checks` and `generation`) logic.
+1. [hasher-apis](#hasherapis) - Simple implementation of `Crypto Module functions` to hash/ encrypt/ decrypt content and get SHA or other algorithm hashes of text or any data. Easily create public/ private keys, encrypt/decrypt files, and other commonly used hashing functions needed in your normal code.
+1. [bridge-wasm](#bridge-wasm) language interpretors for `php`, `perl`, `python`, `micropython`, `cpython`, `ruby`, `julia`, `cpp`, `golang`, `ocaml`, `lua`, `napi`, `wasm-run`, `r-lang`, `openssl`, and `other c` libraries. 
 
 ---
 
 Other projects and status. [ganeshkbhat](https://www.github.com/ganeshkbhat)
 
-- [traverse-fs](#traversefs), [fssys](#fssys) - `Traversing` and (glob) `searching` file and folder system recursively along with other utility functions.
-- [check-esm](#checkesm), [get-imported](#getimported) - Check/ `Get` all `imports` or `required` modules and check if the file is a ES Module or a CJS/ JS Module or Script.
-- [root-dirs](#rootdirs) - `Get root folders` of git, svn, mercurial, nodejs node_modules / package.json / package-lock.json, and nodejs .jscache folder.
-- [concurrency.js](#concurrencyjs) - Module to work with `concurrency` - worker threads and worker processes.
-- [request-apis](#requestapis) - Common request APIs and basic `http` requests utils.
-- [queues.js](#queuesjs) - node package for top and bottom plus lifo/ fifo queues, stack, priority queues, double ended queues, circular queues, wait queues (TODO), and semaphore queues (TODO) implementation.
-- [extenders](#extenders) - node package for Array, Object, String, Decorator extention Utils like for Python and more for Node.js.
-- [mutables](#mutables) - Manage immutable stores with no jazz in a simple manner. Exploring simpler immutable stores architectures.
-- [fssys](#fssys): fssys is a npm module to read write folder/files, fs util functions, traverse files and folder using code, or cli, or use glob patterns.
-- [store](#store): npm module to work with immutable stores. Manage immutable stores with no jazz in a simple manner. Exploring simpler immutable stores architectures.
-- [mod-pickle](#mod-pickle): npm mod-pickle module implements the python pickle-like binary protocols for serializing and de-serializing a javascript object structure as in python.
-- [ndarrays](#ndarrays): ndarrays offers numerical arrays which is a comprehensive mathematical functions, random number generators, linear algebra routines, Fourier transforms, and more like NumPy. The goal is to be as near as NumPy as possible.
-- [express-noserve](#express-noserve): npm module express-noserve allows you to access the express route fetch, access, and invoke applicable Layer Objects of Middlewares and Handler/s without having to listen to a Server.
-- [noserve](#noserve): npm module express-noserve allows you to access the express route fetch, access, and invoke applicable Layer Objects of Middlewares and Handler/s without having to listen to a Server.
-- [scale.concurrency](#scale.concurrency) - npm module to work with concurrency.js - worker threads and worker processes easily using simple functions and with rxjs support.
-- [jsparsers](#jsparsers) - npm jsparsers module for file format to format convertors for `ini`, `yaml`, `json`, `xml`, `html`, `css`, `less`, `sass`.
+2. [traverse-fs](#traversefs), [fssys](#fssys) - `Traversing` and (glob) `searching` file and folder system recursively along with other utility functions.
+2. [check-esm](#checkesm), [get-imported](#getimported) - Check/ `Get` all `imports` or `required` modules and check if the file is a ES Module or a CJS/ JS Module or Script.
+2. [root-dirs](#rootdirs) - `Get root folders` of git, svn, mercurial, nodejs node_modules / package.json / package-lock.json, and nodejs .jscache folder.
+2. [concurrency.js](#concurrencyjs) - Module to work with `concurrency` - worker threads and worker processes.
+2. [request-apis](#requestapis) - Common request APIs and basic `http` requests utils.
+2. [queues.js](#queuesjs) - node package for top and bottom plus lifo/ fifo queues, stack, priority queues, double ended queues, circular queues, wait queues (TODO), and semaphore queues (TODO) implementation.
+2. [extenders](#extenders) - node package for Array, Object, String, Decorator extention Utils like for Python and more for Node.js.
+2. [mutables](#mutables) - Manage immutable stores with no jazz in a simple manner. Exploring simpler immutable stores architectures.
+2. [fssys](#fssys): fssys is a npm module to read write folder/files, fs util functions, traverse files and folder using code, or cli, or use glob patterns.
+2. [store](#store): npm module to work with immutable stores. Manage immutable stores with no jazz in a simple manner. Exploring simpler immutable stores architectures.
+2. [mod-pickle](#mod-pickle): npm mod-pickle module implements the python pickle-like binary protocols for serializing and de-serializing a javascript object structure as in python.
+2. [ndarrays](#ndarrays): ndarrays offers numerical arrays which is a comprehensive mathematical functions, random number generators, linear algebra routines, Fourier transforms, and more like NumPy. The goal is to be as near as NumPy as possible.
+2. [express-noserve](#express-noserve): npm module express-noserve allows you to access the express route fetch, access, and invoke applicable Layer Objects of Middlewares and Handler/s without having to listen to a Server.
+2. [noserve](#noserve): npm module express-noserve allows you to access the express route fetch, access, and invoke applicable Layer Objects of Middlewares and Handler/s without having to listen to a Server.
+2. [scale.concurrency](#scale.concurrency) - npm module to work with concurrency.js - worker threads and worker processes easily using simple functions and with rxjs support.
+2. [jsparsers](#jsparsers) - npm jsparsers module for file format to format convertors for `ini`, `yaml`, `json`, `xml`, `html`, `css`, `less`, `sass`.
 
 ---
 
