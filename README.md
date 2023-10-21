@@ -23,7 +23,7 @@ Key projects being worked on along with their problem statements and status. [ga
 
 Other projects and status. [ganeshkbhat](https://www.github.com/ganeshkbhat)
 
-2. [traverse-fs](#traversefs), [fssys](#fssys) - `Traversing` and (glob) `searching` file and folder system recursively along with other utility functions.
+1. [traverse-fs](#traversefs), [fssys](#fssys) - `Traversing` and (glob) `searching` file and folder system recursively along with other utility functions.
 2. [check-esm](#checkesm), [get-imported](#getimported) - Check/ `Get` all `imports` or `required` modules and check if the file is a ES Module or a CJS/ JS Module or Script.
 2. [root-dirs](#rootdirs) - `Get root folders` of git, svn, mercurial, nodejs node_modules / package.json / package-lock.json, and nodejs .jscache folder.
 2. [concurrency.js](#concurrencyjs) - Module to work with `concurrency` - worker threads and worker processes.
